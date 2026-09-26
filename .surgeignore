@@ -1,0 +1,6 @@
+.git
+public
+build
+content
+netlify.toml
+.gitignore
