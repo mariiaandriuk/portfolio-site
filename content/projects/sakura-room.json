@@ -77,5 +77,9 @@
  "materials": {
   "heading": "Material direction",
   "body": "Dark timber; natural stone; bamboo accents; warm metallic details; linen upholstery; reflective water; decorative cherry blossom installations."
- }
+ },
+ "cover": "sakura-display.webp",
+ "cover_alt": "Sakura Room — Restaurant concept",
+ "card_kind": "Restaurant concept",
+ "card_note": "An intimate world beneath the blossoms."
 }

@@ -59,5 +59,9 @@
  "materials": {
   "heading": "Material direction",
   "body": "Natural stone; warm timber; mineral plaster; dark bronze metal; clear architectural glass; pale linen textiles; planting and water."
- }
+ },
+ "cover": "terra-02-hero-aerial-display.webp",
+ "cover_alt": "TERRA — Coastal residence concept",
+ "card_kind": "Coastal residence concept",
+ "card_note": "Architecture shaped by the coastline."
 }

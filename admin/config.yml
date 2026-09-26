@@ -13,8 +13,6 @@ collections:
         label: "General"
         file: "content/site.json"
         fields:
-          - {label: "Hero title", name: "hero_title", widget: "string"}
-          - {label: "Hero subtitle", name: "hero_subtitle", widget: "string"}
           - {label: "Contact intro", name: "contact_intro", widget: "text"}
           - {label: "Footer note", name: "footer_note", widget: "string"}
       - name: "about"
@@ -33,20 +31,51 @@ collections:
     extension: "json"
     format: "json"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug (page address, lowercase-with-dashes)", name: "slug", widget: "string"}
       - label: "Category"
         name: "category"
         widget: "select"
         options: ["Restaurants & cafes", "Hotels", "Residences", "Wellness", "Retail", "Studios"]
+      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Kind line (e.g. 'Restaurant concept')", name: "kind", widget: "string"}
+      - {label: "Kind line on index card (optional)", name: "card_kind", widget: "string", required: false}
       - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Note on index card (optional, defaults to tagline)", name: "card_note", widget: "string", required: false}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "My role", name: "role", widget: "string"}
-      - label: "Images"
+      - {label: "Meta description (SEO)", name: "meta_description", widget: "string", required: false}
+      - label: "Materials"
+        name: "materials"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "text", required: false}
+      - label: "Text sections"
+        name: "sections"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Body", name: "body", widget: "text"}
+      - label: "Cover image (lead)"
+        name: "lead"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Full image", name: "full", widget: "image", required: false}
+          - {label: "Display image (webp)", name: "src", widget: "image", required: false}
+          - {label: "Alt text", name: "alt", widget: "string", required: false}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
+      - label: "Gallery images"
         name: "images"
         widget: "list"
+        required: false
         fields:
-          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Full image", name: "full", widget: "image", required: false}
+          - {label: "Display image (webp)", name: "src", widget: "image", required: false}
+          - {label: "Alt text", name: "alt", widget: "string", required: false}
           - {label: "Caption", name: "caption", widget: "string", required: false}
-      - {label: "Cover image (index card)", name: "cover", widget: "image"}
-      - {label: "Published", name: "published", widget: "boolean", default: true}
+      - {label: "Index card cover (filename in assets/)", name: "cover", widget: "string", required: false}
+      - {label: "Index card cover alt", name: "cover_alt", widget: "string", required: false}

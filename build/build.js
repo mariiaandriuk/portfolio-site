@@ -41,3 +41,45 @@ for (const item of ['assets', '_next', 'index.html', 'about.html', 'privacy.html
   fs.cpSync(src, path.join(OUT, item), {recursive: true});
 }
 console.log('built', fs.readdirSync(path.join(OUT, 'projects')).length, 'project pages');
+
+// ---- index + about rendering ----
+const CATS = [
+  ['Restaurants & cafes', 'collection-0', 'Restaurants &amp; cafés'],
+  ['Hotels', 'collection-1', 'Hotels'],
+  ['Residences', 'collection-2', 'Residences'],
+  ['Wellness', 'collection-3', 'Wellness &amp; retreats'],
+  ['Retail', 'collection-4', 'Retail &amp; showrooms'],
+  ['Studios', 'collection-5', 'Photography studios'],
+];
+const ORDER = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/card-order.json'), 'utf8'));
+const site = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/site.json'), 'utf8'));
+const aboutC = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/about.json'), 'utf8'));
+const all = fs.readdirSync(path.join(ROOT, 'content/projects'))
+  .filter(f => f.endsWith('.json'))
+  .map(f => JSON.parse(fs.readFileSync(path.join(ROOT, 'content/projects', f), 'utf8')))
+  .filter(d => d.published !== false);
+all.sort((a, b) => (ORDER[a.slug] ?? 999) - (ORDER[b.slug] ?? 999));
+
+function card(d, n) {
+  return `<article><a class="project" href="projects/${d.slug}.html" aria-label="Explore ${esc(d.title)}"><span class="project-photo"><img src="assets/${esc(d.cover || (d.lead && d.lead.src) || '')}" alt="${esc(d.cover_alt || (d.title + ' — ' + d.kind))}" loading="lazy"/></span><span class="project-caption"><span><span class="number">${String(n).padStart(2,'0')}<!-- --> /</span>${esc(d.title)}</span><span class="project-arrow">↗</span></span><span class="project-kind">${esc(d.card_kind || d.kind)}</span></a><p class="project-note">${esc(d.card_note || d.tagline)}</p></article>`;
+}
+
+let idx = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+for (const [cat, cid, heading] of CATS) {
+  const items = all.filter(d => d.category === cat);
+  const articles = items.map((d, i) => card(d, i + 1)).join('');
+  const section = `<section id="${cid}" class="collection"><div class="collection-heading"><h3>${heading}</h3><span>${String(items.length).padStart(2,'0')}<!-- --> <!-- -->${items.length===1?'project':'projects'}</span></div><div class="projects">${articles}</div></section>`;
+  idx = idx.replace(new RegExp(`<section id="${cid}" class="collection">.*?</section>`, 's'), section);
+}
+idx = idx.replace(/<span>\d+<!-- --> SELECTED CONCEPTS<\/span>/, `<span>${all.length}<!-- --> SELECTED CONCEPTS</span>`);
+idx = idx.replace(/(<p class="contact-intro">).*?(<\/p>)/s, `$1${esc(site.contact_intro)}$2`);
+idx = idx.replace(/(<p class="footer-note">).*?(<\/p>)/s, `$1${esc(site.footer_note)}$2`);
+fs.writeFileSync(path.join(OUT, 'index.html'), idx);
+
+let ab = fs.readFileSync(path.join(ROOT, 'about.html'), 'utf8');
+ab = ab.replace(/(<p class="project-narrative">).*?(<\/p>)/s, `$1${esc(aboutC.intro)}$2`);
+for (const [h, key] of [['Approach','approach'],['What I do','what_i_do'],['How I work','how_i_work']]) {
+  ab = ab.replace(new RegExp(`(<section><h2>${h}</h2><p class="section-prose">).*?(</p></section>)`, 's'), `$1${esc(aboutC[key])}$2`);
+}
+fs.writeFileSync(path.join(OUT, 'about.html'), ab);
+console.log('rendered index + about from content');
