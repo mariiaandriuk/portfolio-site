@@ -1,0 +1,81 @@
+{
+ "slug": "natura",
+ "category": "Retail",
+ "published": true,
+ "title": "NATURA",
+ "kind": "Biophilic natural stone showroom",
+ "description": "NATURA is a natural-stone showroom concept conceived as a living gallery. Set within a residential streetscape, it brings stone, warm timber, water and planting into the experience of discovering materials. Inside, a planted oculus creates a central point of daylight. Vertical slab displays, illuminated sample shelves and a consultation lounge make the commercial offer visible while helping visitors imagine the materials in their own projects.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Natural spaces for a more beautiful world. NATURA is a natural-stone showroom concept conceived as a living gallery. Set within a residential streetscape, it brings stone, warm timber, water and planting into the experience of discovering materials.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "Material selection as an immersive encounter. Natural stone is shown both as a product and as part of the surrounding architecture, connecting samples with possible applications."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "A curved stone-and-timber entrance; a planted oculus; vertical slab displays; illuminated sample libraries; stone objects and vessels; a consultation lounge."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Daylight reveals stone texture and variation. Integrated shelf lighting highlights samples and veining, while pendant lighting creates a softer setting around the consultation tables."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "The entrance leads to a welcoming lounge, then a slab gallery and sample displays. The sequence ends with consultation and discussion of possible residential or hospitality applications."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/natura-01-exterior-entrance.png",
+  "src": "assets/natura-01-exterior-entrance-display.webp",
+  "alt": "AI-assisted conceptual visualisation of NATURA Natural Stone Living, a sculptural stone-and-wood showroom entrance set between contemporary houses with water, planting and warm lighting.",
+  "caption": "Exterior Entrance The sculptural showroom entrance set between contemporary residential buildings."
+ },
+ "images": [
+  {
+   "full": "assets/natura-02-welcome-lounge.png",
+   "src": "assets/natura-02-welcome-lounge-display.webp",
+   "alt": "Biophilic NATURA showroom lounge with large-format stone slabs, illuminated sample shelves, curved seating, natural wood, hanging greenery and a central oculus.",
+   "caption": "Welcome Lounge Interior view showing the consultation lounge, slab displays, shelving, oculus and biophilic atmosphere."
+  },
+  {
+   "full": "assets/natura-03-stone-gallery.png",
+   "src": "assets/natura-03-stone-gallery-display.webp",
+   "alt": "Luxury natural-stone showroom interior displaying marble, travertine, limestone, granite, quartzite, onyx, textured stone, vessels and sample libraries within a lush biophilic setting.",
+   "caption": "Stone Gallery Interior view focused on product merchandising, large-format slabs, vessels, sample libraries and natural stone displays."
+  },
+  {
+   "full": "assets/natura-04-the-idea.png",
+   "src": "assets/natura-04-the-idea-display.webp",
+   "alt": "NATURA — The Idea Editorial presentation board explaining the project concept.",
+   "caption": "The Idea Editorial presentation board explaining the project concept."
+  },
+  {
+   "full": "assets/natura-05-the-story.png",
+   "src": "assets/natura-05-the-story-display.webp",
+   "alt": "NATURA — The Story Editorial board presenting the showroom narrative.",
+   "caption": "The Story Editorial board presenting the showroom narrative."
+  },
+  {
+   "full": "assets/natura-06-materials-displays.png",
+   "src": "assets/natura-06-materials-displays-display.webp",
+   "alt": "NATURA — Materials & Displays Presentation board focused on natural stone categories and merchandising.",
+   "caption": "Materials & Displays Presentation board focused on natural stone categories and merchandising."
+  },
+  {
+   "full": "assets/natura-07-light-atmosphere.png",
+   "src": "assets/natura-07-light-atmosphere-display.webp",
+   "alt": "NATURA — Light & Atmosphere Presentation board explaining daylight, integrated lighting, pendants and water reflections.",
+   "caption": "Light & Atmosphere Presentation board explaining daylight, integrated lighting, pendants and water reflections."
+  }
+ ],
+ "tagline": "Natural spaces for a more beautiful world.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Natural stone, including marble, travertine, limestone, granite, quartzite and onyx; warm timber; glass; bronze details; neutral upholstery; planting and water."
+ }
+}

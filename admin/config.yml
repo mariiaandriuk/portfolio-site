@@ -1,0 +1,52 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "../assets/uploads"
+
+collections:
+  - name: "site"
+    label: "Site texts"
+    files:
+      - name: "general"
+        label: "General"
+        file: "content/site.json"
+        fields:
+          - {label: "Hero title", name: "hero_title", widget: "string"}
+          - {label: "Hero subtitle", name: "hero_subtitle", widget: "string"}
+          - {label: "Contact intro", name: "contact_intro", widget: "text"}
+          - {label: "Footer note", name: "footer_note", widget: "string"}
+      - name: "about"
+        label: "About page"
+        file: "content/about.json"
+        fields:
+          - {label: "Intro", name: "intro", widget: "text"}
+          - {label: "Approach", name: "approach", widget: "text"}
+          - {label: "What I do", name: "what_i_do", widget: "text"}
+          - {label: "How I work", name: "how_i_work", widget: "text"}
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Restaurants & cafes", "Hotels", "Residences", "Wellness", "Retail", "Studios"]
+      - {label: "Kind line (e.g. 'Restaurant concept')", name: "kind", widget: "string"}
+      - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "My role", name: "role", widget: "string"}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "src", widget: "image"}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
+      - {label: "Cover image (index card)", name: "cover", widget: "image"}
+      - {label: "Published", name: "published", widget: "boolean", default: true}

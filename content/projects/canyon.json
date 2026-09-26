@@ -1,0 +1,75 @@
+{
+ "slug": "canyon",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "CANYON",
+ "kind": "Immersive restaurant concept",
+ "description": "CANYON imagines a restaurant carved into a layered rock landscape. Warm sandstone forms, burgundy seating and reflective water create a dramatic setting with smaller, intimate places to dine. A luminous ceiling installation introduces a light, translucent counterpoint to the surrounding stone. The concept explores how geology, reflection and warm light can shape both the identity of a venue and the way guests move through it.",
+ "role": "Concept, atmosphere, lighting, materials and guest journey — Maria Andriiuk.",
+ "meta_description": "Sculpted earth. A warmer kind of drama. CANYON imagines a restaurant carved into a layered rock landscape. Warm sandstone forms, burgundy seating and reflective water create a dramatic setting with smaller, intimate places to dine.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "Dining inside a sculpted landscape. Layered canyon forms establish the spatial identity, while soft upholstery and low lighting bring intimacy to the monumental setting."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Layered red stone walls; sculptural rock formations; a luminous translucent ceiling; intimate seating islands; reflective water channels; bronze accents."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Warm concealed uplighting reveals stone texture. Low pathway lighting suggests movement between seating areas, while table lanterns and the ceiling installation create distinct levels of brightness."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival is imagined through a compressed, darker threshold before the main dining landscape opens up. Curving routes reveal secluded tables, water reflections and changing views towards the ceiling."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/canyon-04-entrance.png",
+  "src": "assets/canyon-04-entrance-display.webp",
+  "alt": "Entrance of the CANYON restaurant concept at night, with illuminated signage, sculptural stone walls and warm light spilling onto wet stone.",
+  "caption": "CANYON / Arrival"
+ },
+ "images": [
+  {
+   "full": "assets/canyon-00-original-reference.png",
+   "src": "assets/canyon-00-original-reference-display.webp",
+   "alt": "AI-assisted conceptual visualisation of CANYON Restaurant by Maria Andriiuk, featuring monumental layered sandstone formations, burgundy seating, reflective water and a luminous sculptural ceiling.",
+   "caption": "Main interior view"
+  },
+  {
+   "full": "assets/canyon-01-main-concept.png",
+   "src": "assets/canyon-01-main-concept-display.webp",
+   "alt": "Wide interior view of the CANYON restaurant concept with sculpted red sandstone walls, intimate dining zones, reflective water channels and warm golden lighting.",
+   "caption": "CANYON / Main concept"
+  },
+  {
+   "full": "assets/canyon-02-lighting-atmosphere.png",
+   "src": "assets/canyon-02-lighting-atmosphere-display.webp",
+   "alt": "Lighting concept for CANYON Restaurant showing a glowing sculptural ceiling, warm architectural uplighting, candlelit dining areas and reflections across dark water.",
+   "caption": "Lighting & Atmosphere"
+  },
+  {
+   "full": "assets/canyon-03-material-direction.png",
+   "src": "assets/canyon-03-material-direction-display.webp",
+   "alt": "Material direction board for CANYON Restaurant featuring layered red sandstone, raw rock, burgundy velvet, smoked bronze, polished stone, reflective water and a luminous translucent membrane.",
+   "caption": "Material Direction"
+  },
+  {
+   "full": "assets/canyon-05-guest-journey.png",
+   "src": "assets/canyon-05-guest-journey-display.webp",
+   "alt": "Guest journey storyboard for the CANYON restaurant concept, from arrival to the final table, with material and lighting notes.",
+   "caption": "CANYON / Guest journey"
+  }
+ ],
+ "tagline": "Sculpted earth. A warmer kind of drama.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Layered red sandstone and raw rock; burgundy velvet; smoked bronze; dark polished stone; reflective water; a translucent ceiling installation. These are concept material directions, with final specifications to be developed."
+ }
+}

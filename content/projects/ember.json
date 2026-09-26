@@ -1,0 +1,75 @@
+{
+ "slug": "ember",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "EMBER",
+ "kind": "Sensory cocktail bar concept",
+ "description": "EMBER is a sensory cocktail bar concept built around slow evenings, deeper conversations and the quiet drama of fire, shadow and texture. A sculptural stone bar and warmly illuminated bottle shelves form the social centre, while fireside seating and sheltered booths offer more intimate places to settle. The concept explores how the transition from entrance to lounge can change the pace of an evening. Rich surfaces, soft upholstery and carefully placed light create a setting intended to feel grounded, welcoming and quietly theatrical.",
+ "role": "Concept, atmosphere, lighting, materials and guest journey — Maria Andriiuk.",
+ "meta_description": "A slower kind of night. Fire, texture and atmosphere designed around deeper conversations. EMBER is a sensory cocktail bar concept built around slow evenings, deeper conversations and the quiet drama of fire, shadow and texture. A sculptural stone bar and warmly illuminated bottle shelves form the social centre, while fireside seating and sheltered booths offer more intimate places to settle.",
+ "sections": [
+  {
+   "heading": "Concept & story",
+   "body": "The name EMBER reflects the lingering warmth of a fire and the rhythm of an unhurried conversation. The bar is imagined as a retreat from the rush, where the ritual of gathering shapes the spatial story. A strong central counter creates a shared focal point, balanced by smaller seating areas for different kinds of encounters."
+  },
+  {
+   "heading": "Emotion & atmosphere",
+   "body": "The intended mood is intimate, warm and subtly mysterious. Dark surfaces frame the light rather than competing with it, while leather and soft fabrics invite guests to settle. The sensory brief explores low ambient sound and woody scent references such as cedar and dry amber; these remain creative directions for later operational consideration."
+  },
+  {
+   "heading": "Light & material direction",
+   "body": "Fireplace glow and candle-like accents provide the emotional focus. Under-bar lighting, backlit bottle shelves, small table lamps and grazing light across textured walls create distinct layers. Rough stone and charred timber contrast with aged brass, smoked reflections and smooth leather. Technical lighting, fireplace integration and final specifications would be resolved during further design development."
+  },
+  {
+   "heading": "Guest journey",
+   "body": "01 / Arrival — A restrained entrance introduces the warm glow within. 02 / Threshold — A softly lit passage marks the transition from the everyday. 03 / Approach — The sculptural bar and illuminated shelves draw guests into the room. 04 / Settle — Lounge chairs, booths and fireside seating offer a choice of social settings. 05 / Stay — Tactile details and intimate lighting support a slower, more personal evening."
+  },
+  {
+   "heading": "Project scope",
+   "body": "This self-initiated, unbuilt concept is presented through seven boards covering the idea, story, atmosphere, light and materials, guest journey and final composition. Concept imagery communicates the creative direction. Measured planning, construction documentation, engineering and site delivery are outside this concept study."
+  }
+ ],
+ "lead": {
+  "full": "assets/ember-01-cover.png",
+  "src": "assets/ember-01-cover-display.webp",
+  "alt": "EMBER cocktail bar concept board 1: The sculptural stone bar, amber-lit bottle shelves and fireplace establish EMBER’s warm, intimate character.",
+  "caption": "Cover — The sculptural stone bar, amber-lit bottle shelves and fireplace establish EMBER’s warm, intimate character."
+ },
+ "images": [
+  {
+   "full": "assets/ember-02-the-idea.png",
+   "src": "assets/ember-02-the-idea-display.webp",
+   "alt": "EMBER cocktail bar concept board 2: A slower kind of night: the central bar connects intimate seating pockets and the glow of the fireplace.",
+   "caption": "The idea — A slower kind of night: the central bar connects intimate seating pockets and the glow of the fireplace."
+  },
+  {
+   "full": "assets/ember-03-the-story.png",
+   "src": "assets/ember-03-the-story-display.webp",
+   "alt": "EMBER cocktail bar concept board 3: Fireside seating and sheltered booths create settings for conversation, gathering and unhurried evenings.",
+   "caption": "The story — Fireside seating and sheltered booths create settings for conversation, gathering and unhurried evenings."
+  },
+  {
+   "full": "assets/ember-04-emotion-atmosphere.png",
+   "src": "assets/ember-04-emotion-atmosphere-display.webp",
+   "alt": "EMBER cocktail bar concept board 4: Firelight, tactile upholstery and quiet pools of light shape the proposed sensory experience.",
+   "caption": "Emotion & atmosphere — Firelight, tactile upholstery and quiet pools of light shape the proposed sensory experience."
+  },
+  {
+   "full": "assets/ember-05-light-materials.png",
+   "src": "assets/ember-05-light-materials-display.webp",
+   "alt": "EMBER cocktail bar concept board 5: Charred timber, blackened stone, smoked mirror, aged brass and warm leather meet layered amber lighting.",
+   "caption": "Light & materials — Charred timber, blackened stone, smoked mirror, aged brass and warm leather meet layered amber lighting."
+  },
+  {
+   "full": "assets/ember-06-guest-journey.png",
+   "src": "assets/ember-06-guest-journey-display.webp",
+   "alt": "EMBER cocktail bar concept board 6: Arrival, threshold, approach, settle and stay: five moments connect the entrance, bar and lounge.",
+   "caption": "Guest journey — Arrival, threshold, approach, settle and stay: five moments connect the entrance, bar and lounge."
+  }
+ ],
+ "tagline": "A slower kind of night. Fire, texture and atmosphere designed around deeper conversations.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Charred timber; blackened stone; smoked mirror and dark glass; aged brass; warm leather; textured plaster or stone; soft woven upholstery. These are concept-stage material directions, with final products and detailing to be developed separately."
+ }
+}

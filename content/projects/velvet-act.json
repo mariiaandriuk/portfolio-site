@@ -1,0 +1,81 @@
+{
+ "slug": "velvet-act",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "VELVET ACT",
+ "kind": "Theatrical restaurant concept",
+ "description": "VELVET ACT is a theatrical restaurant concept where dinner is staged like an evening performance. Burgundy velvet, emerald marble and brass detailing set the scene, and a small stage with a grand piano turns the dining room into an auditorium. Guests are not only served — they are part of the act. The concept explores the overlap between restaurant and theatre: curtain-like drapery, spotlighted tables, a slow build from arrival to finale. The drama is held in check by a restrained palette and soft, directional light, so the room feels glamorous rather than loud.",
+ "role": "Concept, atmosphere, lighting, materials and guest journey — Maria Andriiuk.",
+ "meta_description": "Dinner as performance — burgundy velvet, emerald stone and a room that behaves like a stage. VELVET ACT is a theatrical restaurant concept where dinner is staged like an evening performance. Burgundy velvet, emerald marble and brass detailing set the scene, and a small stage with a grand piano turns the dining room into an auditorium. Guests are not only served — they are part of the act.",
+ "sections": [
+  {
+   "heading": "Concept & story",
+   "body": "The name treats the evening as a play in acts: arrival is the overture, the first drink the opening scene, dinner the main act and the piano finale the encore. The interior borrows its language from classic theatres — velvet, brass, stage light — and translates it into an intimate dining setting."
+  },
+  {
+   "heading": "Emotion & atmosphere",
+   "body": "The intended mood is glamorous, intimate and slightly decadent. Deep red absorbs the light, emerald stone gives it back, and every table is lit like a small stage of its own. The sensory brief explores the muffled acoustics of heavy drapery and the pleasant anticipation of a curtain about to rise."
+  },
+  {
+   "heading": "Light & material direction",
+   "body": "Lighting directs attention like stagecraft: narrow spots on tables, a warm wash on drapery, backlit bar shelving and a focused beam held for the piano. Velvet and timber keep the shadows soft; marble and brass carry the highlights. Technical lighting, stage integration and final specifications would be resolved during further design development."
+  },
+  {
+   "heading": "Guest journey",
+   "body": "01 / Overture — Arrival through a curtained threshold into low red light. 02 / Opening scene — A first pour at the emerald marble bar. 03 / The act — Dinner at spotlighted tables within the velvet room. 04 / Intermission — A pause between courses as the room’s lighting shifts. 05 / Finale — The evening closes with live piano on the small stage."
+  },
+  {
+   "heading": "Project scope",
+   "body": "This self-initiated, unbuilt concept is presented through seven boards covering the idea, story, atmosphere, light and materials, guest journey and final composition. Concept imagery communicates the creative direction. Measured planning, construction documentation, engineering and site delivery are outside this concept study."
+  }
+ ],
+ "lead": {
+  "full": "assets/velvet-act-01-cover.png",
+  "src": "assets/velvet-act-01-cover-display.webp",
+  "alt": "VELVET ACT theatrical restaurant concept view 1: The full room in burgundy velvet, emerald stone and stage light.",
+  "caption": "Cover — The full room: burgundy velvet, emerald stone and stage light in one sweeping view."
+ },
+ "images": [
+  {
+   "full": "assets/velvet-act-02-the-idea.png",
+   "src": "assets/velvet-act-02-the-idea-display.webp",
+   "alt": "A restaurant conceived as a theatre, where dinner unfolds in acts.",
+   "caption": "The idea — A restaurant conceived as a theatre, where dinner unfolds in acts."
+  },
+  {
+   "full": "assets/velvet-act-03-the-story.png",
+   "src": "assets/velvet-act-03-the-story-display.webp",
+   "alt": "Curtain-like drapery and spotlighted tables turn guests into an audience.",
+   "caption": "The story — Curtain-like drapery and spotlighted tables turn guests into an audience."
+  },
+  {
+   "full": "assets/velvet-act-04-materials-palette.png",
+   "src": "assets/velvet-act-04-materials-palette-display.webp",
+   "alt": "Burgundy velvet, emerald marble and brass against dark timber.",
+   "caption": "Materials & palette — Burgundy velvet, emerald marble and brass against dark timber."
+  },
+  {
+   "full": "assets/velvet-act-05-lighting.png",
+   "src": "assets/velvet-act-05-lighting-display.webp",
+   "alt": "Stagecraft as lighting design: spots, washes and a single beam for the piano.",
+   "caption": "Lighting — Stagecraft as lighting design: spots, washes and a single beam for the piano."
+  },
+  {
+   "full": "assets/velvet-act-06-guest-journey.png",
+   "src": "assets/velvet-act-06-guest-journey-display.webp",
+   "alt": "Five acts from curtained arrival to the final note.",
+   "caption": "The guest journey — Five acts from curtained arrival to the final note."
+  },
+  {
+   "full": "assets/velvet-act-07-finale.png",
+   "src": "assets/velvet-act-07-finale-display.webp",
+   "alt": "A burgundy stage and grand piano close the evening like an encore.",
+   "caption": "The finale — A burgundy stage and grand piano close the evening like an encore."
+  }
+ ],
+ "tagline": "Dinner as performance — burgundy velvet, emerald stone and a room that behaves like a stage.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Burgundy velvet; emerald marble; polished brass; dark stained timber; smoked mirror; heavy drapery; fluted wall panels. These are concept-stage material directions, with final products and detailing to be developed separately."
+ }
+}

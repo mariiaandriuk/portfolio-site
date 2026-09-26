@@ -1,0 +1,6 @@
+# Portfolio site - Netlify config
+# Build step (build/build.js) renders content/*.json + templates into public/.
+# Until the generator lands, the site is served static as-is.
+[build]
+  publish = "public"
+  command = "node build/build.js"

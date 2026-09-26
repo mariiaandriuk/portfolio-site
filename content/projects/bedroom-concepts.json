@@ -1,0 +1,71 @@
+{
+ "slug": "bedroom-concepts",
+ "category": "Residences",
+ "published": true,
+ "title": "BEDROOM CONCEPTS",
+ "kind": "Residential concept study",
+ "description": "BEDROOM CONCEPTS is a study of how far atmosphere can stretch within a single room type. Six master-bedroom concepts — Sculptural Organic Luxury, European Maximalism, Burgundy Noir, Wabi Sabi Zen, Neo Deco Luxury and Western Gothic Luxury — each with its own material palette, lighting scenario and emotional register. From soft organic minimalism to collected maximalism and dark gothic warmth, the study shows the same method behind every project: a clear idea, honest materials and light that tells the story.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Six bedrooms, six moods — a study of style and atmosphere. An unbuilt concept study by Maria Andriiuk.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "One room, six worlds. Each bedroom is a complete mood — serene and organic, richly layered, dark and sensual, wabi-sabi calm, deco glamour or gothic warmth — designed as a coherent, livable whole."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Sculptural curved headboards and arched portals; layered textiles and collected objects; fireplaces and chandeliers; material palettes built from stone, wood, velvet, brass and linen."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Layered warm light in every concept: coves and concealed strips, sculptural pendants and chandeliers, candle-like accents. Scenes sit around 2700-3000K for intimacy and depth."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Concept design and creative direction; six bedroom atmospheres with material and lighting direction; visual storytelling and presentation boards."
+  }
+ ],
+ "lead": {
+  "full": "assets/bedroom-concepts-01-organic-luxury.png",
+  "src": "assets/bedroom-concepts-01-organic-luxury-display.webp",
+  "alt": "Sculptural Organic Luxury bedroom concept board: a warm minimal bedroom with curved bed wall, travertine, limewash plaster and soft natural light, with material palette.",
+  "caption": "Sculptural Organic Luxury"
+ },
+ "images": [
+  {
+   "full": "assets/bedroom-concepts-02-european-maximalism.png",
+   "src": "assets/bedroom-concepts-02-european-maximalism-display.webp",
+   "alt": "European Maximalism bedroom concept board: burgundy velvet, dark wood panelling, crystal chandelier and layered classic mouldings, with material palette.",
+   "caption": "European Maximalism"
+  },
+  {
+   "full": "assets/bedroom-concepts-03-burgundy-noir.png",
+   "src": "assets/bedroom-concepts-03-burgundy-noir-display.webp",
+   "alt": "Burgundy Noir bedroom concept board: a dramatic burgundy suite with arched velvet headboard, marble and antique brass, with material palette.",
+   "caption": "Burgundy Noir"
+  },
+  {
+   "full": "assets/bedroom-concepts-04-wabi-sabi-zen.png",
+   "src": "assets/bedroom-concepts-04-wabi-sabi-zen-display.webp",
+   "alt": "Wabi Sabi Zen bedroom concept board: microcement, textured plaster, dark walnut and handmade ceramics in a calm natural composition, with material palette.",
+   "caption": "Wabi Sabi Zen"
+  },
+  {
+   "full": "assets/bedroom-concepts-05-neo-deco.png",
+   "src": "assets/bedroom-concepts-05-neo-deco-display.webp",
+   "alt": "Neo Deco Luxury bedroom concept board: black lacquer, cream upholstery, arched illuminated portal headboard and geometric flooring, with material palette.",
+   "caption": "Neo Deco Luxury"
+  },
+  {
+   "full": "assets/bedroom-concepts-06-western-gothic.png",
+   "src": "assets/bedroom-concepts-06-western-gothic-display.webp",
+   "alt": "Western Gothic Luxury bedroom concept board: natural stone, dark oak, black leather and a fireplace beneath a chandelier, with mountain views.",
+   "caption": "Western Gothic Luxury"
+  }
+ ],
+ "tagline": "Six bedrooms, six moods — a study of style and atmosphere.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Each concept carries its own palette — from travertine, limewash and bouclé to walnut, velvet, marble, brass and natural stone. Final finishes and construction details would be developed during technical design."
+ }
+}

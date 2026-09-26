@@ -1,0 +1,10 @@
+HTTP/2 200 
+date: Sat, 26 Sep 2026 16:31:49 GMT
+content-type: text/html; charset=utf-8
+cache-control: no-store, must-revalidate
+link: </_next/static/css/index.CaBKkS8r.css>; rel=preload; as="style"
+vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Next-Url, X-Vinext-Interception-Context, X-Vinext-Mounted-Slots, X-Vinext-Rsc-Render-Mode
+set-cookie: __cf_bm=GtHfTezW2BVEXUCtJ859LCCA.AsgNLIwbF8rOgjtDyY-1790440308.4760513-1.0.1.1-A8.4xnD4qXfsgvul8xbTFS_6GQGulLrmpuow.QBcrM3UWIErOL.zi.HlSBwJLs1YXNBKC47ilWx_r5dUZ85GyBtdmTJY06LO1Fv1RdEGf3_zJ.B1aXlYeRfmGHIGKFXt; HttpOnly; SameSite=None; Secure; Path=/; Domain=chatgpt.site; Expires=Sat, 26 Sep 2026 17:01:49 GMT
+server: cloudflare
+cf-ray: a413a937fbb79236-SEA
+

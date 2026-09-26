@@ -1,0 +1,81 @@
+{
+ "slug": "sylva",
+ "category": "Hotels",
+ "published": true,
+ "title": "SYLVA",
+ "kind": "Tree sanctuary hotel concept",
+ "description": "SYLVA is a boutique hotel concept imagined inside the hollow of a giant ancient tree. Guests arrive along a water garden between colossal trunks, step into a cavernous wooden lobby wrapped by a spiralling staircase, and sleep in suites where carved timber arches frame waterfalls and forest. The concept blends fantasy with calm luxury. Warm wood, travertine, bronze and green marble, soft concealed light and the constant sound of water create a retreat that feels grown, not built.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "A hotel grown inside an ancient forest — wood, water and warm light. An unbuilt concept study by Maria Andriiuk.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A retreat grown from the forest itself. Every space is wrapped in warm carved wood and the sound of water, designed to feel protective, quiet and slightly magical."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "The water-garden arrival between giant trunks; a hollow-tree lobby with a spiralling staircase; suites with arched openings facing the waterfall; terraced spa pools lit by lanterns and candles."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Warm and concealed: light tracing the stair edges, grazing the bark texture, glowing through arches like dusk through a forest. Lanterns and candle-like accents carry the light down to the water."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival along lantern-lit water, into the glowing hollow of the lobby and up the spiral stair. Suites open to the sound of the falls; the spa descends among the roots, where pools steam in candlelight."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Overall concept and narrative; exterior and interior atmosphere; lobby, suite and spa direction; material, colour and lighting direction; visual storytelling and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/sylva-01-arrival.png",
+  "src": "assets/sylva-01-arrival-display.webp",
+  "alt": "Arrival forecourt of the SYLVA tree hotel concept at dusk, between colossal tree trunks, with lantern-lit water channels and a glowing entrance.",
+  "caption": "Arrival through the water garden"
+ },
+ "images": [
+  {
+   "full": "assets/sylva-02-lobby.png",
+   "src": "assets/sylva-02-lobby-display.webp",
+   "alt": "Hotel lobby inside a colossal hollow tree, with a spiralling wooden staircase, green marble reception desk, rain-like light threads and candle lanterns.",
+   "caption": "The hollow-tree lobby"
+  },
+  {
+   "full": "assets/sylva-03-suite.png",
+   "src": "assets/sylva-03-suite-display.webp",
+   "alt": "Guest suite carved into warm wood, with a soft bed in natural textiles and an arched opening framing a waterfall.",
+   "caption": "Suites facing the falls"
+  },
+  {
+   "full": "assets/sylva-04-spa.png",
+   "src": "assets/sylva-04-spa-display.webp",
+   "alt": "Spa level with terraced pools, small waterfalls, mist and candle-lit stone seating among giant roots.",
+   "caption": "Candle-lit spa pools"
+  },
+  {
+   "full": "assets/sylva-05-lighting-scenes.png",
+   "src": "assets/sylva-05-lighting-scenes-display.webp",
+   "alt": "Lighting scenes for SYLVA: the glowing spiral stair, arched wood vaults and a suite at dusk with the waterfall beyond.",
+   "caption": "Warm light on carved wood"
+  },
+  {
+   "full": "assets/sylva-06-lighting-details.png",
+   "src": "assets/sylva-06-lighting-details-display.webp",
+   "alt": "Lighting detail studies for SYLVA: illuminated stair edges, wall-washed bark texture, bronze sconces and lantern glow on water.",
+   "caption": "Lighting details"
+  },
+  {
+   "full": "assets/sylva-07-materials.png",
+   "src": "assets/sylva-07-materials-display.webp",
+   "alt": "Material palette for SYLVA: end-grain wood, travertine, aged bronze, boucle and woven textiles, green stone and hammered metal.",
+   "caption": "Material palette"
+  }
+ ],
+ "tagline": "A hotel grown inside an ancient forest — wood, water and warm light.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Carved natural wood; travertine; polished dark marble; green marble accents; aged bronze; bouclé and linen textiles; water features throughout; warm concealed lighting. Final finishes and construction details would be developed during technical design."
+ }
+}

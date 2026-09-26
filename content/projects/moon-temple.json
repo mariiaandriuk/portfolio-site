@@ -1,0 +1,75 @@
+{
+ "slug": "moon-temple",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "Moon Temple",
+ "kind": "Immersive restaurant concept",
+ "description": "Moon Temple imagines dining as a quiet, cinematic ritual. A luminous moon installation forms the focal point of a tall arched hall, with dark stone, bronze details and reflective water extending its glow. Intimate tables sit on dry platforms beside the central pool. An adjoining bar carries the same architectural language into a smaller social setting. The concept balances a memorable central view with close, tactile moments at the table.",
+ "role": "Concept, atmosphere, materials and brand direction — Maria Andriiuk.",
+ "meta_description": "A journey between light and silence. Moon Temple imagines dining as a quiet, cinematic ritual. A luminous moon installation forms the focal point of a tall arched hall, with dark stone, bronze details and reflective water extending its glow.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A restaurant organised around light and silence. The moon acts as a visual destination, while repetition of arches and reflected light gives the hall a calm rhythm."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Monumental bronze-lined arches; a luminous moon focal installation; a central reflecting pool; raised dining platforms; taupe seating; a curved stone bar."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Moon-white light establishes the main focal point. Warm lanterns soften the dining areas, with concealed lighting at arches and bar shelves revealing stone grain and metallic edges."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Guests enter along the central visual axis before moving towards tables beside the water. The bar offers an adjoining destination while maintaining a glimpse of the main hall."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/moon-portal.png",
+  "src": "assets/moon-portal-display.webp",
+  "alt": "Moon Temple, view 1",
+  "caption": "View 1"
+ },
+ "images": [
+  {
+   "full": "assets/moon-temple.png",
+   "src": "assets/moon-temple-display.webp",
+   "alt": "Moon Temple, view 2",
+   "caption": "View 2"
+  },
+  {
+   "full": "assets/moon-dining.png",
+   "src": "assets/moon-dining-display.webp",
+   "alt": "Side view of Moon Temple dining platforms, charcoal arches, reflecting water and luminous moon.",
+   "caption": "Dining beside the reflecting pool"
+  },
+  {
+   "full": "assets/moon-bar.png",
+   "src": "assets/moon-bar-display.webp",
+   "alt": "Curved dark stone bar with bronze-lined arched shelves and a view towards the moon installation.",
+   "caption": "Bar alcove concept"
+  },
+  {
+   "full": "assets/moon-materials.png",
+   "src": "assets/moon-materials-display.webp",
+   "alt": "Charcoal stone table with bronze lantern, taupe upholstery and soft moon reflections.",
+   "caption": "Stone, bronze & lantern light"
+  },
+  {
+   "full": "assets/moon-temple-brand-identity.png",
+   "src": "assets/moon-temple-brand-identity-display.webp",
+   "alt": "LUNA TEMPLE brand identity board: logo, typography, colour palette, materials and applications for the Moon Temple restaurant.",
+   "caption": "Brand identity & visual direction — LUNA TEMPLE"
+  }
+ ],
+ "tagline": "A journey between light and silence.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Charcoal stone; patinated bronze; taupe upholstery; clear glass; ceramic tableware; reflective water. Cool moon-white light is balanced with warm lantern light."
+ }
+}

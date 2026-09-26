@@ -1,0 +1,81 @@
+{
+ "slug": "sakura-room",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "Sakura Room",
+ "kind": "Restaurant concept",
+ "description": "Sakura Room imagines dining beneath a canopy of cherry blossoms. Inspired by hanami, the Japanese tradition of appreciating flowers, the concept combines dark timber, lantern light, reflective water and pink blossoms. Framed openings and intimate tables lead towards a circular focal view. Stone and water create a quiet visual rhythm, while warm lighting brings a sense of closeness to the larger dining room. The presentation explores its story, atmosphere and guest journey.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "An intimate world beneath the blossoms. Sakura Room imagines dining beneath a canopy of cherry blossoms. Inspired by hanami, the Japanese tradition of appreciating flowers, the concept combines dark timber, lantern light, reflective water and pink blossoms.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A dining experience shaped by the fleeting beauty of blossoms. Contrasts between soft flowers, dark timber and quiet water support a romantic, contemplative atmosphere."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "A blossom canopy; dark timber architecture; warm lanterns; circular framed openings; reflective water; stone pathways; intimate table settings."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Lanterns define tables and thresholds. Concealed lighting reveals timber and planting, while reflections extend the glow across the water and emphasise the overhead blossoms."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "The concept journey moves from entrance and arrival through a quieter transition to the main dining area, central pond and bar. The journey board communicates a sequence of experiences rather than a measured floor plan."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/sakura.png",
+  "src": "assets/sakura-display.webp",
+  "alt": "Sakura Room restaurant concept with cherry blossoms, dark timber and warm evening light.",
+  "caption": "Main interior concept"
+ },
+ "images": [
+  {
+   "full": "assets/sakura-01-presentation.jpeg",
+   "src": "assets/sakura-01-presentation-display.webp",
+   "alt": "Sakura Room presentation with pink cherry blossoms, lantern-lit dining tables, reflective water and stepping stones.",
+   "caption": "Concept overview"
+  },
+  {
+   "full": "assets/sakura-02-presentation.jpeg",
+   "src": "assets/sakura-02-presentation-display.webp",
+   "alt": "Sakura Room concept idea board with a main dining view and details of blossoms, warm light, water and stone.",
+   "caption": "Concept idea"
+  },
+  {
+   "full": "assets/sakura-03-presentation.jpeg",
+   "src": "assets/sakura-03-presentation-display.webp",
+   "alt": "Sakura Room story board showing a blossom canopy, dark timber dining room and circular opening.",
+   "caption": "Story — inspired by hanami"
+  },
+  {
+   "full": "assets/sakura-04-presentation.jpeg",
+   "src": "assets/sakura-04-presentation-display.webp",
+   "alt": "Sakura Room atmosphere board showing intimate table settings, lanterns, water reflections and pink blossoms.",
+   "caption": "Emotion & atmosphere"
+  },
+  {
+   "full": "assets/sakura-05-presentation.jpeg",
+   "src": "assets/sakura-05-presentation-display.webp",
+   "alt": "Sakura Room material and lighting presentation with timber, stone, fabric, warm light and pink colour swatches.",
+   "caption": "Materials & lighting direction"
+  },
+  {
+   "full": "assets/sakura-06-presentation.jpeg",
+   "src": "assets/sakura-06-presentation-display.webp",
+   "alt": "Sakura Room conceptual guest journey board showing arrival, dining, pond, bar and supporting spaces.",
+   "caption": "Guest journey — conceptual sequence"
+  }
+ ],
+ "tagline": "An intimate world beneath the blossoms.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Dark timber; natural stone; bamboo accents; warm metallic details; linen upholstery; reflective water; decorative cherry blossom installations."
+ }
+}

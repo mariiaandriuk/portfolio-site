@@ -1,0 +1,81 @@
+{
+ "slug": "sal",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "SAL",
+ "kind": "Coastal dining concept",
+ "description": "SAL is a coastal fine-dining concept carved from the meeting of rock and sea. A bronze portal set into black volcanic stone marks the entrance, opening into rooms of dark mineral surfaces, salt-crystal seams and long views of the water. More than a meal, it is imagined as a place to belong — calm, elemental and rooted in its coastline. The concept explores contrast: rough volcanic stone against polished bronze, dark interiors against the bright horizon, crystalline light against deep shadow. Every element refers back to salt — the mineral that joins sea, stone and table.",
+ "role": "Concept, atmosphere, lighting, materials and guest journey — Maria Andriiuk.",
+ "meta_description": "Where the sea becomes architecture — dark stone, aged bronze and salt crystal above the water. SAL is a coastal fine-dining concept carved from the meeting of rock and sea. A bronze portal set into black volcanic stone marks the entrance, opening into rooms of dark mineral surfaces, salt-crystal seams and long views of the water. More than a meal, it is imagined as a place to belong — calm, elemental and rooted in its coastline.",
+ "sections": [
+  {
+   "heading": "Concept & story",
+   "body": "SAL takes its name and its logic from salt: the trace the sea leaves on stone. The restaurant is composed as a sequence of mineral chambers — portal, bar and dining room — each framing the sea in a different way, until the horizon itself becomes part of the interior."
+  },
+  {
+   "heading": "Emotion & atmosphere",
+   "body": "The intended mood is elemental, calm and grounded. Dark surfaces absorb the glare of the coast while crystal seams catch the last light, and the sound of the sea remains the room’s constant background. The atmosphere is designed to make time feel slower and the meal feel anchored to the place."
+  },
+  {
+   "heading": "Light & material direction",
+   "body": "Lighting is layered like mineral strata: low warm lines along the bar, backlit salt-glass details, grazing light across rough stone and the natural dusk performance of the horizon. Aged bronze and volcanic stone give weight; salt crystal and glass carry the sparkle. Technical lighting and final specifications would be resolved during further design development."
+  },
+  {
+   "heading": "Guest journey",
+   "body": "01 / Arrival — A bronze portal in black stone, with salt crystals catching the light. 02 / Threshold — A dark, quiet passage from coast to interior. 03 / The mineral bar — A first drink at the stone bar with its illuminated crystal seam. 04 / The table — Dinner facing the open horizon. 05 / Dusk — The room darkens as the sea performs, and the crystals take over the light."
+  },
+  {
+   "heading": "Project scope",
+   "body": "This self-initiated, unbuilt concept is presented through seven boards covering the idea, story, atmosphere, light and materials, guest journey and final composition. Concept imagery communicates the creative direction. Measured planning, construction documentation, engineering and site delivery are outside this concept study."
+  }
+ ],
+ "lead": {
+  "full": "assets/sal-01-cover.png",
+  "src": "assets/sal-01-cover-display.webp",
+  "alt": "SAL coastal dining concept board 1: A bronze portal set in black stone, with salt crystals and the sea beyond.",
+  "caption": "Cover — A bronze portal set in black stone: more than a meal, a place to belong."
+ },
+ "images": [
+  {
+   "full": "assets/sal-02-the-idea.png",
+   "src": "assets/sal-02-the-idea-display.webp",
+   "alt": "Where the sea becomes architecture: dark stone, bronze and the open horizon.",
+   "caption": "The idea — Where the sea becomes architecture: dark stone, bronze and the open horizon."
+  },
+  {
+   "full": "assets/sal-03-the-portal.png",
+   "src": "assets/sal-03-the-portal-display.webp",
+   "alt": "A round bronze entrance and salt crystals mark the threshold from coast to interior.",
+   "caption": "The portal — A round bronze entrance and salt crystals mark the threshold from coast to interior."
+  },
+  {
+   "full": "assets/sal-04-lighting-details.png",
+   "src": "assets/sal-04-lighting-details-display.webp",
+   "alt": "The glow of minerals: a backlit crystal seam runs through the bar.",
+   "caption": "Lighting details — The glow of minerals: a backlit crystal seam runs through the bar."
+  },
+  {
+   "full": "assets/sal-05-material-palette.png",
+   "src": "assets/sal-05-material-palette-display.webp",
+   "alt": "Volcanic stone, aged bronze and salt glass form the mineral bar.",
+   "caption": "Material palette — Volcanic stone, aged bronze and salt glass form the mineral bar."
+  },
+  {
+   "full": "assets/sal-06-light-atmosphere.png",
+   "src": "assets/sal-06-light-atmosphere-display.webp",
+   "alt": "Layered light at dusk: the room recedes as the horizon performs.",
+   "caption": "Light & atmosphere — Layered light at dusk: the room recedes as the horizon performs."
+  },
+  {
+   "full": "assets/sal-07-tactile-details.png",
+   "src": "assets/sal-07-tactile-details-display.webp",
+   "alt": "The dining experience told through mineral textures and table details.",
+   "caption": "Tactile details — The dining experience told through mineral textures and table details."
+  }
+ ],
+ "tagline": "Where the sea becomes architecture — dark stone, aged bronze and salt crystal above the water.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Black volcanic stone; aged bronze; salt crystal and cast glass; dark stained timber; mineral plaster; natural linen and leather. These are concept-stage material directions, with final products and detailing to be developed separately."
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "elements",
+ "category": "Studios",
+ "published": true,
+ "title": "ELEMENTS",
+ "kind": "Immersive photography studio concept",
+ "description": "ELEMENTS is an immersive photography studio park concept with five distinct environments: Botanical, Desert, Stone, Air and Water. Each offers its own material palette, light and atmosphere within one creative destination. The concept treats the space itself as part of the image. Instead of relying only on temporary backdrops, it explores complete settings for fashion, portrait, product and brand shoots, with a variety of visual moods for different productions.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Five natural worlds. One creative destination. ELEMENTS is an immersive photography studio park concept with five distinct environments: Botanical, Desert, Stone, Air and Water. Each offers its own material palette, light and atmosphere within one creative destination.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "Five natural worlds within one studio destination. The environments offer contrasting settings while sharing an emphasis on texture, atmosphere and carefully composed views."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Botanical planting; sand-toned arches; sculptural stone forms; flowing translucent fabrics; blue reflective surfaces. Each environment has a recognisable palette and focal composition."
+  },
+  {
+   "heading": "The five studios",
+   "body": "Botanical Layered greenery, deep emerald tones and filtered light create an intimate setting for portraits, beauty and lifestyle imagery. Desert Sand tones, arches, clay textures and woven elements create a warm setting for fashion, lifestyle and product shoots. Stone Raw mineral surfaces and sculptural forms create strong texture and shadow for portraiture, fashion and conceptual imagery. Air Pale textiles, flowing drapery and soft light create a light, quiet setting for movement, bridal, beauty and lifestyle photography. Water Blue tones, reflective finishes and water-like light patterns create a cool, dreamlike setting for beauty, product and editorial work."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "The lighting direction changes between environments: filtered light in Botanical, golden warmth in Desert, pronounced shadows in Stone, diffused daylight in Air, and reflections or projected patterns in Water."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Photographers and creative teams choose an environment to suit a brief, then explore alternative angles, styling and light within it. The five settings support variation across a larger shoot or campaign."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/elements-01-botanical.jpeg",
+  "src": "assets/elements-01-botanical-display.webp",
+  "alt": "AI-assisted conceptual visualisation of a lush botanical photo studio with deep green tones, layered tropical planting, textured walls and warm lighting.",
+  "caption": "Botanical Studio"
+ },
+ "images": [
+  {
+   "full": "assets/elements-02-desert.jpeg",
+   "src": "assets/elements-02-desert-display.webp",
+   "alt": "AI-assisted conceptual visualisation of a desert-inspired photo studio with sand tones, arched forms, natural textures and warm sunlight.",
+   "caption": "Desert Studio"
+  },
+  {
+   "full": "assets/elements-03-stone.jpeg",
+   "src": "assets/elements-03-stone-display.webp",
+   "alt": "AI-assisted conceptual visualisation of a stone-inspired photography studio with raw mineral textures, sculptural rock forms, arches and dramatic shadows.",
+   "caption": "Stone Studio"
+  },
+  {
+   "full": "assets/elements-04-air.jpeg",
+   "src": "assets/elements-04-air-display.webp",
+   "alt": "AI-assisted conceptual visualisation of an airy white photo studio with flowing drapery, canopy fabrics, pale neutral tones and soft natural daylight.",
+   "caption": "Air Studio"
+  },
+  {
+   "full": "assets/elements-05-water.jpeg",
+   "src": "assets/elements-05-water-display.webp",
+   "alt": "AI-assisted conceptual visualisation of a blue water-inspired photography studio with reflective surfaces, watery light projections, arched forms and a calm cinematic atmosphere.",
+   "caption": "Water Studio"
+  }
+ ],
+ "tagline": "Five natural worlds. One creative destination.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Botanical: foliage, mineral finishes and timber. Desert: sand-toned plaster, clay and woven fibres. Stone: rough mineral surfaces. Air: pale textiles and translucent drapery. Water: glass, reflective finishes and blue-toned surfaces."
+ }
+}

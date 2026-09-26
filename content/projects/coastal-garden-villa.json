@@ -1,0 +1,87 @@
+{
+ "slug": "coastal-garden-villa",
+ "category": "Residences",
+ "published": true,
+ "title": "Coastal Garden Villa",
+ "kind": "Nature-inspired villa concept",
+ "description": "Coastal Garden Villa explores a spacious home shaped around light, planting and views of the sea. Layered stone volumes, warm timber and broad glazed openings connect the interiors with a garden and pool terrace. The concept carries a restrained material palette through the living room, kitchen, bedrooms and bathroom. Generous shared spaces open towards the horizon, while quieter rooms use framed views and soft textures to create a more intimate atmosphere.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Quiet interiors. Open horizons. A home within the garden. Coastal Garden Villa explores a spacious home shaped around light, planting and views of the sea. Layered stone volumes, warm timber and broad glazed openings connect the interiors with a garden and pool terrace.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A garden residence combining clean architectural lines with tactile natural materials. The concept creates a calm setting for everyday life, using open views and planted edges to connect rooms with their surroundings."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Layered horizontal roof planes; tall stone entrance walls; planted balcony edges; an infinity pool; full-height glazing; a stone kitchen island; terrace-facing bedrooms; a freestanding stone bath."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Daylight and warm coastal sunlight define the interiors. Concealed lighting beneath steps, cabinetry and shelving reveals texture after sunset. Slim ceiling tracks and pendant lights provide a restrained visual language through the shared rooms."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "The arrival route passes through the garden towards a sheltered timber entrance. Living and dining spaces open to the pool terrace, while the bedrooms and bathroom frame more private views of trees and the coastline."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Overall concept and narrative; exterior and interior atmosphere; material and colour direction; lighting mood; arrival and living sequence; room concepts; visual storytelling and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/coastal-garden-villa-exterior.jpeg",
+  "src": "assets/coastal-garden-villa-exterior-display.webp",
+  "alt": "Two-storey stone villa with planted terraces, broad entrance steps and an infinity pool overlooking a coastal landscape.",
+  "caption": "Architecture within the coastal garden"
+ },
+ "images": [
+  {
+   "full": "assets/coastal-garden-villa-entrance.jpeg",
+   "src": "assets/coastal-garden-villa-entrance-display.webp",
+   "alt": "Warm timber entrance framed by tall stone walls, illuminated steps and layered garden planting.",
+   "caption": "Arrival through stone & planting"
+  },
+  {
+   "full": "assets/coastal-garden-villa-pool-terrace.jpeg",
+   "src": "assets/coastal-garden-villa-pool-terrace-display.webp",
+   "alt": "Outdoor lounge and sun loungers beside a long infinity pool, with glazing opening into the villa and a coastal sunset beyond.",
+   "caption": "Pool terrace at sunset"
+  },
+  {
+   "full": "assets/coastal-garden-villa-living.jpeg",
+   "src": "assets/coastal-garden-villa-living-display.webp",
+   "alt": "Pale upholstered seating, a low stone coffee table and dining area open towards the pool terrace through full-height glazing.",
+   "caption": "Living room open to the landscape"
+  },
+  {
+   "full": "assets/coastal-garden-villa-kitchen.jpeg",
+   "src": "assets/coastal-garden-villa-kitchen-display.webp",
+   "alt": "Monolithic light stone kitchen island, warm timber cabinetry and slim pendant lights with an open view towards the dining terrace.",
+   "caption": "Kitchen & dining direction"
+  },
+  {
+   "full": "assets/coastal-garden-villa-bedroom-terrace.jpeg",
+   "src": "assets/coastal-garden-villa-bedroom-terrace-display.webp",
+   "alt": "Calm bedroom with neutral linen, warm timber, pale stone finishes and wide glazing towards a private terrace and sea view.",
+   "caption": "Bedroom opening onto the terrace"
+  },
+  {
+   "full": "assets/coastal-garden-villa-bedroom-study.jpeg",
+   "src": "assets/coastal-garden-villa-bedroom-study-display.webp",
+   "alt": "Softly furnished bedroom with an integrated timber desk, illuminated shelving and corner glazing framing trees and the coastline.",
+   "caption": "Bedroom with a quiet study corner"
+  },
+  {
+   "full": "assets/coastal-garden-villa-bathroom.jpeg",
+   "src": "assets/coastal-garden-villa-bathroom-display.webp",
+   "alt": "Stone bathroom with a freestanding oval bath, glass shower, long vanity and full-height glazing overlooking planting and the coast.",
+   "caption": "Bathing beside the garden"
+  }
+ ],
+ "tagline": "Quiet interiors. Open horizons. A home within the garden.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Light travertine-like stone; textured natural-stone walls; warm timber cabinetry and wall panels; clear glass with dark slim frames; linen and textured neutral upholstery; woven rugs; layered planting and water. Final finishes and construction details would be developed during technical design."
+ }
+}

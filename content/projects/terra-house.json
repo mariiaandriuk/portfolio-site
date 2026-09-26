@@ -1,0 +1,75 @@
+{
+ "slug": "terra-house",
+ "category": "Residences",
+ "published": true,
+ "title": "Terra House",
+ "kind": "Warm minimalist interior concept",
+ "description": "Terra House is a warm minimalist interior concept built around golden light and curved, sculpted forms. Lime plaster walls, walnut joinery and travertine surfaces create one continuous, calm interior, while a sweeping curved staircase gives the home its quiet centre. The concept explores minimalism as warmth rather than absence: fewer elements, each given weight. Light moves across the plaster like a sundial through the day, and every room is composed around a single gesture — a curve, a shadow, a framed patch of garden.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Golden light, curved forms and quiet warmth. Terra House is a warm minimalist interior concept built around golden light and curved, sculpted forms, with lime plaster, walnut joinery and travertine surfaces.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A minimal residence where warmth comes from material and light rather than decoration. Rounded edges, deep window reveals and a restrained palette create rooms that feel calm, soft and permanently sunlit."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "A sculptural curved staircase; deep plastered openings; a monolithic travertine kitchen island; woven jute textures; integrated walnut joinery; soft golden lighting concealed within shelves and niches."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Low, warm and indirect. Grazing light across plaster reveals its texture, concealed lines beneath shelves and cabinetry replace visible fixtures, and daylight is treated as the main feature, filtered through deep reveals."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival moves through a calm hallway towards the curved stair, the home’s sculptural heart. Living and kitchen spaces flow together in a warm open plan, while the bedroom and stone bathing room turn inward for privacy and rest."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Overall concept and narrative; interior atmosphere; material and colour direction; lighting mood; room concepts; visual storytelling and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/terra-house-01-living.png",
+  "src": "assets/terra-house-01-living-display.webp",
+  "alt": "Warm minimal living room with a sculptural curved staircase, bouclé seating, travertine and walnut in golden light.",
+  "caption": "Living room in golden light"
+ },
+ "images": [
+  {
+   "full": "assets/terra-house-02-hallway-stair.png",
+   "src": "assets/terra-house-02-hallway-stair-display.webp",
+   "alt": "Hallway with a sculptural curved staircase, lime plaster walls and concealed warm lighting.",
+   "caption": "The curved stair"
+  },
+  {
+   "full": "assets/terra-house-03-kitchen.png",
+   "src": "assets/terra-house-03-kitchen-display.webp",
+   "alt": "Kitchen with a monolithic travertine island, walnut cabinetry and woven bar stools in warm afternoon light.",
+   "caption": "Travertine & walnut kitchen"
+  },
+  {
+   "full": "assets/terra-house-04-bedroom.png",
+   "src": "assets/terra-house-04-bedroom-display.webp",
+   "alt": "Minimal bedroom with soft linen bedding, walnut joinery and gentle filtered light.",
+   "caption": "A quieter room for rest"
+  },
+  {
+   "full": "assets/terra-house-05-bathroom.png",
+   "src": "assets/terra-house-05-bathroom-display.webp",
+   "alt": "Bathroom with a freestanding stone bath, long travertine vanity, walnut drawers and dappled garden light.",
+   "caption": "Stone bathing room"
+  },
+  {
+   "full": "assets/terra-house-06-materials.png",
+   "src": "assets/terra-house-06-materials-display.webp",
+   "alt": "Material flatlay with travertine, walnut, dark marble, jute, bouclé and aged bronze samples.",
+   "caption": "Material & colour palette"
+  }
+ ],
+ "tagline": "Golden light, curved forms and quiet warmth — a home shaped around softness.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Warm lime plaster; travertine; walnut cabinetry and wall panels; dark marble accents; woven jute and wool; bouclé and linen upholstery; aged bronze details. Final finishes and construction details would be developed during technical design."
+ }
+}

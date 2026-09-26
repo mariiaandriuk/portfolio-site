@@ -1,0 +1,63 @@
+{
+ "slug": "tropical-pavilion",
+ "category": "Residences",
+ "published": true,
+ "title": "TERRA",
+ "kind": "Coastal residence concept",
+ "description": "TERRA is a coastal residence concept imagined as an extension of its landscape. A low, flowing stone roof, warm timber panels and full-height glazing connect the home with rocky terrain and ocean views. The arrival sequence moves from a shaded entrance towards a bright living space and open pool terrace. A circular lounge, planted courtyard and natural boulders create distinct outdoor moments within a shared material palette.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "Architecture shaped by the coastline. TERRA is a coastal residence concept imagined as an extension of its landscape. A low, flowing stone roof, warm timber panels and full-height glazing connect the home with rocky terrain and ocean views.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A home shaped around the coastline and an unhurried daily rhythm. Curved forms and natural materials soften the transition between enclosed rooms, sheltered terraces and the open landscape."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "A sweeping stone roof; a planted courtyard opening; timber sliding panels; full-height glazing; a curved infinity pool; a circular outdoor lounge; integrated boulders."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Daylight and warm coastal light define the living spaces. Concealed lighting beneath steps and along stone surfaces guides evening movement, while interior lighting gives timber and textiles a soft glow."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival begins at the sheltered timber entrance. The route opens into the living area, then continues to the terrace and pool lounge, with framed views shifting from planting and stone to the ocean."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/terra-02-hero-aerial.jpeg",
+  "src": "assets/terra-02-hero-aerial-display.webp",
+  "alt": "AI-assisted conceptual visualisation of TERRA Coastal Residence, an organic stone villa integrated into a tropical rocky coastline with an infinity pool and ocean views.",
+  "caption": "Main hero: aerial coastal residence view"
+ },
+ "images": [
+  {
+   "full": "assets/terra-03-concept-board.jpeg",
+   "src": "assets/terra-03-concept-board-display.webp",
+   "alt": "TERRA Coastal Residence concept presentation showing the exterior, entrance, pool terrace, living and dining spaces, bedroom, material palette and conceptual site plan.",
+   "caption": "Concept board: overview of entrance, outdoor lounge, pool terrace, living space, dining area, bedroom, materials and site-plan concept"
+  },
+  {
+   "full": "assets/terra-living.png",
+   "src": "assets/terra-living-display.webp",
+   "alt": "Linen seating and a stone coffee table opening towards the coastal infinity pool.",
+   "caption": "Living room towards the sea"
+  },
+  {
+   "full": "assets/terra-terrace.png",
+   "src": "assets/terra-terrace-display.webp",
+   "alt": "Curved infinity pool, circular fire lounge and sweeping stone roof above the coast.",
+   "caption": "Pool terrace at golden hour"
+  }
+ ],
+ "tagline": "Architecture shaped by the coastline.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Natural stone; warm timber; mineral plaster; dark bronze metal; clear architectural glass; pale linen textiles; planting and water."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "white-coast",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "WHITE COAST",
+ "kind": "Coastal restaurant concept",
+ "description": "WHITE COAST is a coastal restaurant concept shaped like a shell sanctuary. Sculpted white stone, mother-of-pearl chandeliers and soft arched openings create a bright, protective interior that stays open toward the sea. The room is designed to feel held — calm, luminous and quietly luxurious. The concept studies the shell as both form and feeling: a smooth interior inside a rougher world. Light moves across curved plaster the way it moves inside a shell, and the sea is never out of sight, so the boundary between sanctuary and horizon stays deliberately thin.",
+ "role": "Concept, atmosphere, lighting, materials and guest journey — Maria Andriiuk.",
+ "meta_description": "A shell sanctuary above the water — white stone, pearl light and the sound of the sea. WHITE COAST is a coastal restaurant concept shaped like a shell sanctuary. Sculpted white stone, mother-of-pearl chandeliers and soft arched openings create a bright, protective interior that stays open toward the sea. The room is designed to feel held — calm, luminous and quietly luxurious.",
+ "sections": [
+  {
+   "heading": "Concept & story",
+   "body": "The shell is the whole story: protection without closing off, beauty without decoration. Each space — entry, dining hall and the signature chandelier room — is a chamber of the same shell, turning guests slowly toward the water. The palette stays white-on-white so the sea provides all the colour."
+  },
+  {
+   "heading": "Emotion & atmosphere",
+   "body": "The intended mood is serene, luminous and gentle. Curved surfaces soften sound, sheer fabrics filter the coastal light, and by evening the pearl chandeliers take over with a warm, low glow. The atmosphere is designed as an exhale — a place where the pace drops on arrival."
+  },
+  {
+   "heading": "Light & material direction",
+   "body": "Daylight is the main material, bounced off white plaster and filtered through sheers; at night, mother-of-pearl fixtures glow like the inside of a shell. Pale stone and rippled glass keep every reflection soft. Technical lighting and final specifications would be resolved during further design development."
+  },
+  {
+   "heading": "Guest journey",
+   "body": "01 / Arrival — A sculpted white threshold with the first glimpse of blue. 02 / Unfolding — Arched openings reveal the dining hall chamber by chamber. 03 / The signature — Seating beneath the mother-of-pearl chandelier. 04 / The table — Dinner facing the horizon as the light changes. 05 / Evening — The room turns warm and pearlescent as the sea goes dark."
+  },
+  {
+   "heading": "Project scope",
+   "body": "This self-initiated, unbuilt concept is presented through eight boards covering the idea, story, atmosphere, light and materials, guest journey and final composition. Concept imagery communicates the creative direction. Measured planning, construction documentation, engineering and site delivery are outside this concept study."
+  }
+ ],
+ "lead": {
+  "full": "assets/white-coast-01-the-idea.png",
+  "src": "assets/white-coast-01-the-idea-display.webp",
+  "alt": "WHITE COAST coastal restaurant concept board 1: A white shell-sanctuary dining room with sculpted chandelier above the sea.",
+  "caption": "The idea — A shell sanctuary: white stone, a sculpted chandelier and the open sea."
+ },
+ "images": [
+  {
+   "full": "assets/white-coast-02-the-story.png",
+   "src": "assets/white-coast-02-the-story-display.webp",
+   "alt": "Chamber by chamber, arched openings turn guests toward the water.",
+   "caption": "The story — Chamber by chamber, arched openings turn guests toward the water."
+  },
+  {
+   "full": "assets/white-coast-03-the-atmosphere.png",
+   "src": "assets/white-coast-03-the-atmosphere-display.webp",
+   "alt": "Evening inside the shell: pearl light against a darkening sea.",
+   "caption": "The atmosphere — Evening inside the shell: pearl light against a darkening sea."
+  },
+  {
+   "full": "assets/white-coast-04-the-lighting.png",
+   "src": "assets/white-coast-04-the-lighting-display.webp",
+   "alt": "Daylight bounced off plaster; pearl fixtures after dusk.",
+   "caption": "The lighting — Daylight bounced off plaster; pearl fixtures after dusk."
+  },
+  {
+   "full": "assets/white-coast-05-the-materials.png",
+   "src": "assets/white-coast-05-the-materials-display.webp",
+   "alt": "White stone, mother-of-pearl, pale travertine and sheer linen.",
+   "caption": "The materials — White stone, mother-of-pearl, pale travertine and sheer linen."
+  },
+  {
+   "full": "assets/white-coast-06-the-experience.png",
+   "src": "assets/white-coast-06-the-experience-display.webp",
+   "alt": "A luminous dining hall held between sanctuary and horizon.",
+   "caption": "The experience — A luminous dining hall held between sanctuary and horizon."
+  },
+  {
+   "full": "assets/white-coast-07-the-signature.png",
+   "src": "assets/white-coast-07-the-signature-display.webp",
+   "alt": "The mother-of-pearl chandelier, the heart of the room.",
+   "caption": "The signature — The mother-of-pearl chandelier, the heart of the room."
+  },
+  {
+   "full": "assets/white-coast-08-guest-journey.png",
+   "src": "assets/white-coast-08-guest-journey-display.webp",
+   "alt": "Five moments from the first glimpse of blue to a pearlescent evening.",
+   "caption": "The guest journey — Five moments from the first glimpse of blue to a pearlescent evening."
+  }
+ ],
+ "tagline": "A shell sanctuary above the water — white stone, pearl light and the sound of the sea.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "White sculpted plaster and stone; mother-of-pearl and capiz shell; pale travertine; bleached timber; sheer linen; frosted and rippled glass. These are concept-stage material directions, with final products and detailing to be developed separately."
+ }
+}

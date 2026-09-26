@@ -1,0 +1,63 @@
+{
+ "slug": "neo-art-deco",
+ "category": "Residences",
+ "published": true,
+ "title": "NEO ART DECO",
+ "kind": "Residential interior concept",
+ "description": "NEO ART DECO is a residential interior concept that reworks the glamour of art deco through nature. Deep emerald fluted panels, verde marble and brushed brass form the structure, while backlit botanical resin panels bring living light into every room — an emerald sanctuary with a calm, contemporary rhythm. The concept carries one palette through living room, kitchen, bedroom and bathroom: dark green and marble grounded by walnut and travertine, softened by bouclé and sheer linen, and warmed everywhere by layered golden light.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "An emerald sanctuary. NEO ART DECO is a residential interior concept in deep emerald, verde marble and brushed brass, with backlit botanical panels bringing living light into every room.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A sanctuary of elegance and calm. The deco vocabulary — fluting, arches, brass lines and symmetrical lighting — is kept restrained and modern, while botanical light panels give each room a living focal point and a connection to nature."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "Backlit botanical resin panels; deep emerald fluted walls; a verde marble kitchen island and bathroom vanity; arched mirrors with brass frames; globe pendant clusters; a moon-like botanical medallion above the bed."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Warm and layered: concealed LED lines along ceiling coves and shelving, globe pendants in soft clusters, picture-light accents on brass, and the glow of the botanical panels as ambient light. Light is used to graze texture rather than flood the room."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "The living room sets the mood — emerald, brass and soft bouclé. The kitchen turns the same palette functional around a marble island, the bedroom becomes the calmest chamber under its botanical medallion, and the bathroom closes the sequence as a dark, tranquil spa."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Overall concept and narrative; interior atmosphere; material and colour direction; lighting mood; room concepts; visual storytelling and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/neo-art-deco-01.png",
+  "src": "assets/neo-art-deco-01-display.webp",
+  "alt": "Neo Art Deco living room with deep emerald fluted panels, botanical backlit inserts, bouclé seating and brass details.",
+  "caption": "The emerald living room"
+ },
+ "images": [
+  {
+   "full": "assets/neo-art-deco-02.png",
+   "src": "assets/neo-art-deco-02-display.webp",
+   "alt": "Neo Art Deco kitchen with verde marble island, brass extractor, fluted emerald cabinetry and the full material palette.",
+   "caption": "Kitchen & palette"
+  },
+  {
+   "full": "assets/neo-art-deco-03.png",
+   "src": "assets/neo-art-deco-03-display.webp",
+   "alt": "Neo Art Deco bedroom with a botanical backlit medallion, emerald headboard wall and brass pendant lights.",
+   "caption": "Bedroom & palette"
+  },
+  {
+   "full": "assets/neo-art-deco-04.png",
+   "src": "assets/neo-art-deco-04-display.webp",
+   "alt": "Neo Art Deco bathroom with black marble, a fluted bath, brass fittings and a botanical backlit feature panel.",
+   "caption": "Bathroom & palette"
+  }
+ ],
+ "tagline": "An emerald sanctuary — deep green, gold brass and botanical light in a modern deco language.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Deep emerald fluted panels; verde and black marble; brushed gold brass; dark walnut; travertine; bouclé upholstery; botanical resin backlit panels; warm LED lighting. Final finishes and construction details would be developed during technical design."
+ }
+}

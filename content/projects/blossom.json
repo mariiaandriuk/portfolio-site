@@ -1,0 +1,57 @@
+{
+ "slug": "blossom",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "Blossom Floral Patisserie",
+ "kind": "Café & patisserie concept",
+ "description": "Blossom Floral Patisserie imagines a café as an indoor garden. Cascading pink blossoms frame tall arched openings, while a curved pastry display forms the centre of the room. Blush seating, pale pink stone and warm brass details connect the entrance, dessert counter and café tables. The concept gives the pastries a clear visual role within an immersive setting, balancing decorative richness with inviting places to sit and enjoy them.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "A garden imagined in blush and light. Blossom Floral Patisserie imagines a café as an indoor garden. Cascading pink blossoms frame tall arched openings, while a curved pastry display forms the centre of the room.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A floral destination built around the pleasure of choosing and sharing dessert. Blossom installations establish the atmosphere, while the illuminated counter anchors the customer experience."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "An arched glazed entrance; cascading blossom installations; a curved pastry counter; globe pendant lights; blush upholstered chairs; round stone café tables."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Daylight enters through tall windows. Warm pendant globes, counter lighting and concealed base lighting add an evening glow and distinguish the pastry display from the seating areas."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "The open entrance frames a view of the counter. Guests discover the desserts, then move towards the tables beneath the blossoms. Close material details carry the floral identity into each place setting."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Core concept and narrative; spatial atmosphere; material and colour direction; lighting mood; experience sequence; concept views and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/blossom.png",
+  "src": "assets/blossom-display.webp",
+  "alt": "Blossom Floral Patisserie, view 1",
+  "caption": "View 1"
+ },
+ "images": [
+  {
+   "full": "assets/blossom-entrance.png",
+   "src": "assets/blossom-entrance-display.webp",
+   "alt": "Arched brass-framed entrance opening into the pink floral patisserie.",
+   "caption": "Arrival beneath the blossoms"
+  },
+  {
+   "full": "assets/blossom-display.png",
+   "src": "assets/blossom-display-display.webp",
+   "alt": "Curved pink stone pastry counter with glass display, globe pendants and hanging blossoms.",
+   "caption": "Pastry display & warm lighting"
+  }
+ ],
+ "tagline": "A garden imagined in blush and light.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Pale pink marble-inspired surfaces; blush velvet upholstery; warm brass; clear glass display cases; porcelain tableware; decorative floral installations. Final finishes would be selected during further development."
+ }
+}

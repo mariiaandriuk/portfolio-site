@@ -1,0 +1,75 @@
+{
+ "slug": "lithos",
+ "category": "Hotels",
+ "published": true,
+ "title": "LITHOS",
+ "kind": "Cave boutique hotel concept",
+ "description": "LITHOS is a cave boutique hotel concept carved from stone and silence. Behind a monolithic facade, the lobby opens like a cavern — sculpted rock vaults, a still black pool and a rain of crystal drops — leading to rooms and suites that each interpret the cave in their own way: dark, light, mirrored, crystal, stone and sky. The concept explores stillness as luxury. Natural stone, soft indirect light and quiet water slow guests down from the moment they arrive, and the journey ends above the city on a rooftop terrace of fire and horizon.",
+ "role": "Concept design, creative direction and visual storytelling — Maria Andriiuk.",
+ "meta_description": "A hotel carved by silence. LITHOS is a cave boutique hotel concept of sculpted rock vaults, a still black pool, six unique rooms, a spa sanctuary and a rooftop fire terrace.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A peaceful escape carved in stone. Every space is designed to immerse guests in stillness — timeless, calm and grounded — with the cave as both shelter and experience."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "The cavern lobby with its crystal-drop chandelier; a black reflecting pool; six unique room concepts — Cave Dark, Cave Light, Mirror, Stone Suite, Crystal and Sky; a spa sanctuary with rain-shower wall, steam room and mineral pool; a rooftop terrace with fire lounge and evening bar."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "Soft, indirect and layered: cove lines, wall washing, step and floor lights, and focused accents on stone and crystal. Light follows the natural rhythm of the day and reveals texture rather than flooding the space."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival at the monolithic facade, through the glowing portal into the cavern lobby. Corridors of stone and crystal lead to the rooms, the spa descends into water and steam, and the evening ends on the rooftop, above the city, by the fire."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Overall concept and narrative; exterior and interior atmosphere; room and suite concepts; spa and rooftop direction; material, colour and lighting direction; visual storytelling and presentation."
+  }
+ ],
+ "lead": {
+  "full": "assets/lithos-01-entrance.png",
+  "src": "assets/lithos-01-entrance-display.webp",
+  "alt": "Monolithic stone facade of the LITHOS boutique hotel at dusk, with a glowing entrance portal and wet stone forecourt.",
+  "caption": "Arrival at the monolithic facade"
+ },
+ "images": [
+  {
+   "full": "assets/lithos-02-lobby.png",
+   "src": "assets/lithos-02-lobby-display.webp",
+   "alt": "Hotel lobby carved as a cavern, with sculpted rock vaults, a crystal-drop chandelier, black reflecting pool and soft seating.",
+   "caption": "The cavern lobby"
+  },
+  {
+   "full": "assets/lithos-03-corridor.png",
+   "src": "assets/lithos-03-corridor-display.webp",
+   "alt": "Guest-room corridor in dark stone with concealed lighting, stone seating and amethyst crystal accents.",
+   "caption": "Corridors of stone and crystal"
+  },
+  {
+   "full": "assets/lithos-04-rooms.png",
+   "src": "assets/lithos-04-rooms-display.webp",
+   "alt": "Rooms collection board: Cave Room Dark, Cave Room Light, Mirror Room, Stone Suite, Crystal Room and Sky Room.",
+   "caption": "Six rooms, one essence"
+  },
+  {
+   "full": "assets/lithos-05-spa-rooftop.png",
+   "src": "assets/lithos-05-spa-rooftop-display.webp",
+   "alt": "Spa sanctuary with rain-shower wall, steam room and mineral pool, and a rooftop terrace with fire lounge above the city.",
+   "caption": "Spa sanctuary & rooftop terrace"
+  },
+  {
+   "full": "assets/lithos-06-lighting.png",
+   "src": "assets/lithos-06-lighting-display.webp",
+   "alt": "Lighting concept board for LITHOS: facade, reception, lobby, corridor, rooms, bathroom and rooftop-spa lighting layers with a zoning key plan.",
+   "caption": "Lighting concept"
+  }
+ ],
+ "tagline": "A hotel carved by silence — stone, water and soft light.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Natural carved stone; polished dark marble; crystal and amethyst accents; soft bouclé and linen; brushed metal details; still and moving water; warm concealed lighting throughout. Final finishes and construction details would be developed during technical design."
+ }
+}
