@@ -8,6 +8,15 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+(function(){
+  function clean(){ if (/_token=/.test(location.hash)) { location.replace(location.pathname + '#/'); } }
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', function(user){ if (user) clean(); });
+    window.netlifyIdentity.on('login', function(){ clean(); });
+  }
+})();
+</script>
+<script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 </html>
