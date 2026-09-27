@@ -1,0 +1,80 @@
+{
+  "slug": "vela",
+  "category": "Hotels",
+  "published": true,
+  "title": "VELA",
+  "kind": "Seaside boutique hotel concept",
+  "tagline": "The sea, revealed between the veils.",
+  "description": "VELA is a hotel experienced in glimpses. Low sand-white guest pavilions rest around a shallow reflective basin beside the sea. Between them, tall, almost transparent fabric screens hold the light and alternately reveal and conceal the horizon as guests cross slender paths. One green island anchors the composition. At arrival, the veils become a threshold; in the restaurant and spa, they create changing degrees of intimacy. Sheer bed canopies carry the same idea into the rooms. The palette stays close to pale stone, flax and pearl-white fabric, with deep green as its single strong colour. Small real pearls set into selected pale-stone countertops make the light tangible at hand scale. After sunset, concealed amber light lets the screens glow against the water.",
+  "role": "Concept and creative direction - project narrative, guest journey, spatial idea, colour and material palette, lighting direction, and art direction of the concept visualisations. Unbuilt concept study; visualisations do not represent a completed building or technical construction drawings.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Arrival bridge - Open-sided lobby - Guest pavilions - Restaurant - Spa - Garden island - Bathrooms"
+    }
+  ],
+  "lead": {
+    "full": "assets/vela-01-cover.png",
+    "src": "assets/vela-01-cover-display.webp",
+    "alt": "The hotel appears as a sequence of ivory islands and luminous veils above water.",
+    "caption": "The hotel appears as a sequence of ivory islands and luminous veils above water."
+  },
+  "images": [
+    {
+      "full": "assets/vela-02-aerial.png",
+      "src": "assets/vela-02-aerial-display.webp",
+      "alt": "From above, low pavilions gather around one green island while tall screens set the rhythm.",
+      "caption": "From above, low pavilions gather around one green island while tall screens set the rhythm."
+    },
+    {
+      "full": "assets/vela-03-arrival.png",
+      "src": "assets/vela-03-arrival-display.webp",
+      "alt": "A slender bridge leads guests between veils, revealing the sea a little at a time.",
+      "caption": "A slender bridge leads guests between veils, revealing the sea a little at a time."
+    },
+    {
+      "full": "assets/vela-04-lobby.png",
+      "src": "assets/vela-04-lobby-display.webp",
+      "alt": "The open lobby looks toward the garden and horizon; pearls catch the light in the reception counter.",
+      "caption": "The open lobby looks toward the garden and horizon; pearls catch the light in the reception counter."
+    },
+    {
+      "full": "assets/vela-05-restaurant.png",
+      "src": "assets/vela-05-restaurant-display.webp",
+      "alt": "The restaurant opens across reflective water; small pearls are set into the pale stone counter.",
+      "caption": "The restaurant opens across reflective water; small pearls are set into the pale stone counter."
+    },
+    {
+      "full": "assets/vela-06-spa.png",
+      "src": "assets/vela-06-spa-display.webp",
+      "alt": "The spa sits near the green island, with sheer screens filtering the view.",
+      "caption": "The spa sits near the green island, with sheer screens filtering the view."
+    },
+    {
+      "full": "assets/vela-07-suite.png",
+      "src": "assets/vela-07-suite-display.webp",
+      "alt": "A light canopy softens the bed as the taller veils frame the sea outside.",
+      "caption": "A light canopy softens the bed as the taller veils frame the sea outside."
+    },
+    {
+      "full": "assets/vela-08-bathroom.png",
+      "src": "assets/vela-08-bathroom-display.webp",
+      "alt": "Pearls in the vanity countertop bring the idea down to a small, tactile detail.",
+      "caption": "Pearls in the vanity countertop bring the idea down to a small, tactile detail."
+    },
+    {
+      "full": "assets/vela-09-materials.png",
+      "src": "assets/vela-09-materials-display.webp",
+      "alt": "Pale plaster, stone and flax meet translucent fabric, deep-green glass and pearl-inlaid counter stone.",
+      "caption": "Pale plaster, stone and flax meet translucent fabric, deep-green glass and pearl-inlaid counter stone."
+    },
+    {
+      "full": "assets/vela-10-lighting.png",
+      "src": "assets/vela-10-lighting-display.webp",
+      "alt": "Warm grazing light, quiet path markers and softly glowing fabric shape VELA after dark.",
+      "caption": "Warm grazing light, quiet path markers and softly glowing fabric shape VELA after dark."
+    }
+  ],
+  "cover": "vela-01-cover-display.webp",
+  "cover_alt": "VELA — Seaside boutique hotel concept"
+}
