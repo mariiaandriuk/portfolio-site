@@ -1,1 +1,24 @@
-{"canyon": 0, "moon-temple": 1, "sakura-room": 2, "blossom": 3, "ember": 4, "dragon-lotus": 5, "sal": 6, "velvet-act": 7, "white-coast": 8, "glacia": 9, "petrichor": 10, "lithos": 11, "sylva": 12, "tropical-pavilion": 13, "coastal-garden-villa": 14, "terra-house": 15, "neo-art-deco": 16, "bedroom-concepts": 17, "canopy": 18, "natura": 19, "elements": 20}
+{
+ "canyon": 0,
+ "moon-temple": 1,
+ "sakura-room": 2,
+ "blossom": 3,
+ "ember": 4,
+ "dragon-lotus": 5,
+ "sal": 6,
+ "velvet-act": 7,
+ "white-coast": 8,
+ "glacia": 9,
+ "petrichor": 10,
+ "lithos": 11,
+ "sylva": 12,
+ "tropical-pavilion": 14,
+ "coastal-garden-villa": 15,
+ "terra-house": 16,
+ "neo-art-deco": 17,
+ "bedroom-concepts": 18,
+ "canopy": 19,
+ "natura": 20,
+ "elements": 21,
+ "nacra": 13
+}

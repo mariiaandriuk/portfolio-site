@@ -1,0 +1,109 @@
+{
+ "slug": "nacra",
+ "category": "Hotels",
+ "published": true,
+ "title": "NACRA",
+ "kind": "Boutique hotel concept",
+ "description": "NACRA begins as a quiet line of sand-white architecture on the shore. Then the dune splits open. A hanging garden falls between two sculpted wings, crossed by slender bridges and almost weightless veils that filter the light. The sea appears at the end of this green passage. The arrival lobby, restaurant terraces and spa each offer a different view into the same space. In the guest rooms, sheer canopies soften the beds while layered tulle frames the garden and horizon. Ribbed plaster, pale stone and linen carry the warmth of sand; nacre-like glass catches the light. At dusk, concealed amber lighting draws out the textures without breaking the calm.",
+ "role": "Concept and creative direction - narrative, guest journey, spatial idea, colour and material palette, lighting direction, and art direction of the concept visualisations. Unbuilt concept study.",
+ "meta_description": "A sand-white dune splits open into a hanging garden above the sea - an unbuilt boutique hotel concept by Maria Andriiuk.",
+ "sections": [
+  {
+   "heading": "Concept & atmosphere",
+   "body": "A quiet line of sand-white architecture on the shore - until the dune splits open and a hanging garden falls between the two sculpted wings, with the sea waiting at the end of this green passage. The palette carries the warmth of sand; nacre-like glass catches the light, with one deep-green accent."
+  },
+  {
+   "heading": "Signature elements",
+   "body": "The split dune wings; the hanging garden between them, crossed by slender bridges and almost weightless veils that filter the light. Spaces: arrival lobby, garden passage and bridges, restaurant terraces, spa and bathing terraces, guest rooms and bathrooms."
+  },
+  {
+   "heading": "Lighting direction",
+   "body": "At dusk, concealed amber lighting draws out the textures without breaking the calm - grazing light across ribbed plaster, softly glowing veils and low amber points revealing the materials after dark."
+  },
+  {
+   "heading": "Experience & journey",
+   "body": "Arrival moves from shelter into the light of the open garden. The lobby, restaurant terraces and spa each offer a different view into the same green passage; in the guest rooms, sheer canopies soften the beds while layered tulle frames the garden and horizon."
+  },
+  {
+   "heading": "Scope of work",
+   "body": "Concept and creative direction - narrative, guest journey, spatial idea, colour and material palette, lighting direction, and art direction of the concept visualisations. Unbuilt concept study."
+  }
+ ],
+ "lead": {
+  "full": "assets/nacra-01-split-dune.png",
+  "src": "assets/nacra-01-split-dune-display.webp",
+  "alt": "NACRA coastal hotel concept: a sand-white dune building split open, revealing a vertical hanging garden with bridges and sheer veils, at sunset above the sea.",
+  "caption": "The sand-white dune parts to reveal a green passage to the sea."
+ },
+ "images": [
+  {
+   "full": "assets/nacra-02-inverted-garden.png",
+   "src": "assets/nacra-02-inverted-garden-display.webp",
+   "alt": "Inside the cut: an inverted hanging garden falls between the two sculpted wings, with an infinity pool reflecting the sea.",
+   "caption": "Inside the split, a suspended garden meets layers of sheer fabric and reflected light."
+  },
+  {
+   "full": "assets/nacra-04-aerial.png",
+   "src": "assets/nacra-04-aerial-display.webp",
+   "alt": "Aerial view of NACRA: two dune-like wings embracing a green canyon with a long water mirror leading to the beach.",
+   "caption": "Two sculpted wings frame the garden, water and bridges from above."
+  },
+  {
+   "full": "assets/nacra-05-lobby.png",
+   "src": "assets/nacra-05-lobby-display.webp",
+   "alt": "Arrival lobby inside the cut, wrapped in ribbed lime plaster and hanging greenery, opening to the sea.",
+   "caption": "Arrival moves from shelter into the light of the open garden."
+  },
+  {
+   "full": "assets/nacra-06-corridor.png",
+   "src": "assets/nacra-06-corridor-display.webp",
+   "alt": "Garden corridor along the cut with a glass balustrade, sheer tulle veils and cascading plants above the sea.",
+   "caption": "A passage along the cut keeps the greenery and sea in view."
+  },
+  {
+   "full": "assets/nacra-07-spa.png",
+   "src": "assets/nacra-07-spa-display.webp",
+   "alt": "Spa terraces with cascading warm pools, sheer canopies and sunset views to the open sea.",
+   "caption": "Layered bathing terraces bring water, fabric and warm light together."
+  },
+  {
+   "full": "assets/nacra-08-restaurant.png",
+   "src": "assets/nacra-08-restaurant-display.webp",
+   "alt": "Restaurant terraces stepped along the cut, with deep green glass accents and bridges above the water.",
+   "caption": "Dining terraces overlook the hanging garden and horizon."
+  },
+  {
+   "full": "assets/nacra-09-bedroom.png",
+   "src": "assets/nacra-09-bedroom-display.webp",
+   "alt": "Guest suite with an almost-transparent bed canopy and layered tulle filtering the sea view.",
+   "caption": "A sheer canopy softens the bed; layered tulle filters the garden view."
+  },
+  {
+   "full": "assets/nacra-10-bathroom.png",
+   "src": "assets/nacra-10-bathroom-display.webp",
+   "alt": "Bathroom with a sculpted stone tub facing the green cut and the sea, filtered through tulle.",
+   "caption": "A quiet bathing room opens toward the green passage and sea."
+  },
+  {
+   "full": "assets/nacra-11-materials.png",
+   "src": "assets/nacra-11-materials-display.webp",
+   "alt": "Material palette for NACRA: ribbed lime plaster, pale travertine, linen, sheer tulle, pearlescent glass and one deep green glass accent.",
+   "caption": "Ribbed plaster, pale stone, linen, pearlescent glass and one deep-green accent."
+  },
+  {
+   "full": "assets/nacra-12-lighting.png",
+   "src": "assets/nacra-12-lighting-display.webp",
+   "alt": "Lighting palette for NACRA: concealed amber light grazing ribbed plaster, glowing niches and lantern-warm details.",
+   "caption": "Grazing light, softly glowing veils and low amber points reveal the materials after dark."
+  }
+ ],
+ "tagline": "A dune opens into a living world.",
+ "materials": {
+  "heading": "Material direction",
+  "body": "Ribbed plaster; pale stone; linen; pearlescent glass; one deep-green glass accent; concealed amber lighting. Final finishes and construction details would be developed during technical design."
+ },
+ "cover": "nacra-01-split-dune-display.webp",
+ "cover_alt": "NACRA — Boutique hotel concept",
+ "card_kind": "Boutique hotel concept",
+ "card_note": "A dune opens into a living world."
+}
