@@ -1,0 +1,80 @@
+{
+  "slug": "limen",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "LIMEN",
+  "kind": "Restaurant concept",
+  "tagline": "LIMEN is a passage between three worlds: darkness at the threshold, movement below, and sky above.",
+  "description": "From a dark, compressed entrance, guests step onto a transparent floor above water and fish. Clear side walls bring the horizon into the room. Overhead, a broad charcoal roof frames a segmented glass half-dome: closed, it reveals the sky through its curved panes; open, it leaves the center of the dining room directly beneath the sky. Dark dining islands and warm, low table lamps make this dramatic room feel intimate.",
+  "role": "Concept and creative direction: project narrative, guest journey, spatial idea, material and color palette, lighting direction, and art direction of the concept visualisations.",
+  "sections": [
+    {
+      "heading": "Spaces and elements",
+      "body": "Arrival threshold; main dining hall; perimeter window booths; central bar; transparent floor and water setting; operable glass half-dome; material and lighting palettes."
+    }
+  ],
+  "lead": {
+    "full": "assets/limen-01-reveal.png",
+    "src": "assets/limen-01-reveal-display.webp",
+    "alt": "Arrival: a dark threshold opens to water below and sky above.",
+    "caption": "Arrival: a dark threshold opens to water below and sky above."
+  },
+  "images": [
+    {
+      "full": "assets/limen-02-exterior.png",
+      "src": "assets/limen-02-exterior-display.webp",
+      "alt": "Exterior: the glass half-dome rises within a deep charcoal roof frame.",
+      "caption": "Exterior: the glass half-dome rises within a deep charcoal roof frame."
+    },
+    {
+      "full": "assets/limen-03-plan-view.png",
+      "src": "assets/limen-03-plan-view-display.webp",
+      "alt": "Spatial overview: dining islands sit between the transparent floor and the glazed crown.",
+      "caption": "Spatial overview: dining islands sit between the transparent floor and the glazed crown."
+    },
+    {
+      "full": "assets/limen-04-underfoot.png",
+      "src": "assets/limen-04-underfoot-display.webp",
+      "alt": "Underfoot: fish and water give every step a changing view.",
+      "caption": "Underfoot: fish and water give every step a changing view."
+    },
+    {
+      "full": "assets/limen-05-day-hall.png",
+      "src": "assets/limen-05-day-hall-display.webp",
+      "alt": "Daylight: the closed dome brings sky and sunlight into the hall.",
+      "caption": "Daylight: the closed dome brings sky and sunlight into the hall."
+    },
+    {
+      "full": "assets/limen-06-evening.png",
+      "src": "assets/limen-06-evening-display.webp",
+      "alt": "Evening: retracted panels open the center of the room to the sky.",
+      "caption": "Evening: retracted panels open the center of the room to the sky."
+    },
+    {
+      "full": "assets/limen-07-window-booth.png",
+      "src": "assets/limen-07-window-booth-display.webp",
+      "alt": "Window booth: an intimate seat between the sea, transparent floor and distant dome.",
+      "caption": "Window booth: an intimate seat between the sea, transparent floor and distant dome."
+    },
+    {
+      "full": "assets/limen-08-bar.png",
+      "src": "assets/limen-08-bar-display.webp",
+      "alt": "The bar: a dark gathering point below the glazed crown.",
+      "caption": "The bar: a dark gathering point below the glazed crown."
+    },
+    {
+      "full": "assets/limen-09-materials.png",
+      "src": "assets/limen-09-materials-display.webp",
+      "alt": "Materials: charcoal stone, clear floor and dome glass, flax texture, and water green.",
+      "caption": "Materials: charcoal stone, clear floor and dome glass, flax texture, and water green."
+    },
+    {
+      "full": "assets/limen-10-lighting.png",
+      "src": "assets/limen-10-lighting-display.webp",
+      "alt": "Lighting: sun through the closed dome, open blue-hour sky, and warm tables after dark.",
+      "caption": "Lighting: sun through the closed dome, open blue-hour sky, and warm tables after dark."
+    }
+  ],
+  "cover": "limen-01-reveal-display.webp",
+  "cover_alt": "LIMEN — Restaurant concept"
+}
