@@ -1,0 +1,32 @@
+{
+  "slug": "polar-light",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "POLAR LIGHT",
+  "kind": "Restaurant & bar concept",
+  "tagline": "A sea grotto, transformed by light.",
+  "description": "A restaurant and bar imagined inside a sea grotto. Violet light and daylight shape the daytime atmosphere; green joins the violet after dusk for a northern-lights effect across the rock. Purple corduroy velvet, dark marble, backlit green stone and brass give the space its tactile character.",
+  "role": "Concept design and creative direction: concept story, guest journey, material palette, furniture direction and lighting atmosphere. Self-initiated concept study, not a built project.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Water arrival · Dining hall · Bar"
+    }
+  ],
+  "lead": {
+    "src": "assets/polar-01.webp",
+    "full": "assets/polar-01.webp",
+    "alt": "Daylight and violet light in the dining hall.",
+    "caption": "Daylight and violet light in the dining hall."
+  },
+  "images": [
+    {
+      "src": "assets/polar-04.webp",
+      "full": "assets/polar-04.webp",
+      "alt": "The evening atmosphere: green joins violet across the grotto.",
+      "caption": "The evening atmosphere: green joins violet across the grotto."
+    }
+  ],
+  "cover": "polar-01.webp",
+  "cover_alt": "POLAR LIGHT - Restaurant & bar concept"
+}

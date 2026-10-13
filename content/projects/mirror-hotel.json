@@ -1,0 +1,32 @@
+{
+  "slug": "mirror-hotel",
+  "category": "Hotels",
+  "published": true,
+  "title": "MIRROR HOTEL",
+  "kind": "Hospitality interior concept",
+  "tagline": "A hotel shaped around sculptural reflections.",
+  "description": "A boutique hotel concept where each zone has its own mirror installation. Cream travertine, white marble, bouclé and soft warm light connect the lobby, spa entrance, restaurant, guest suite and elevator lobby. Silver, champagne gold and bronze change the mood from one space to the next.",
+  "role": "Concept design and creative direction: central idea, spatial concept, material and lighting palette, and art direction of the concept visuals. Self-initiated concept study, not a built project.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Lobby · Spa entrance · Restaurant · Guest suite · Elevator lobby"
+    }
+  ],
+  "lead": {
+    "src": "assets/mirror-01.webp",
+    "full": "assets/mirror-01.webp",
+    "alt": "Lobby: sculptural antiqued mirrors above a white marble reception.",
+    "caption": "Lobby: sculptural antiqued mirrors above a white marble reception."
+  },
+  "images": [
+    {
+      "src": "assets/mirror-02.webp",
+      "full": "assets/mirror-02.webp",
+      "alt": "Spa entrance: suspended round mirrors and glass petals over a water basin.",
+      "caption": "Spa entrance: suspended round mirrors and glass petals over a water basin."
+    }
+  ],
+  "cover": "mirror-01.webp",
+  "cover_alt": "MIRROR HOTEL - Hospitality interior concept"
+}

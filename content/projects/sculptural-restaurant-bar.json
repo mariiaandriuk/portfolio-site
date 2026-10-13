@@ -1,0 +1,32 @@
+{
+  "slug": "sculptural-restaurant-bar",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "Sculptural Restaurant & Bar",
+  "kind": "Hospitality concept",
+  "tagline": "A sculptural journey from arrival to dining.",
+  "description": "A restaurant and bar concept with a flowing, sculptural ceiling, warm amber light and dark reflective surfaces. The entrance and corridor introduce the same curved forms that continue into the dining space and bar, creating a connected visual journey.",
+  "role": "Concept design and creative direction: spatial idea, atmosphere and art direction of the concept visuals. Self-initiated concept study, not a built project.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Entrance · Corridor · Restaurant · Bar"
+    }
+  ],
+  "lead": {
+    "src": "assets/sculptural-04.webp",
+    "full": "assets/sculptural-04.webp",
+    "alt": "Dining space: a flowing ceiling and warm lighting shape the atmosphere.",
+    "caption": "Dining space: a flowing ceiling and warm lighting shape the atmosphere."
+  },
+  "images": [
+    {
+      "src": "assets/sculptural-02.webp",
+      "full": "assets/sculptural-02.webp",
+      "alt": "Corridor: the arrival route carries the same sculptural language.",
+      "caption": "Corridor: the arrival route carries the same sculptural language."
+    }
+  ],
+  "cover": "sculptural-04.webp",
+  "cover_alt": "Sculptural Restaurant & Bar - Hospitality concept"
+}
