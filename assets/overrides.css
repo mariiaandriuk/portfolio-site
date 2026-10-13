@@ -99,3 +99,5 @@ html, body { overflow-x:clip }
   .hero + .fullbleed { margin-top:48px }
   .work .fullbleed { margin-bottom:104px }
 }
+
+.services-intro{max-width:760px;margin:0 0 36px;line-height:1.7}
