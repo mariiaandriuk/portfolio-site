@@ -1,0 +1,31 @@
+{
+  "slug": "golden-hour",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "GOLDEN HOUR",
+  "kind": "Café interior concept",
+  "tagline": "Olive tones. Sculptural forms. A slower coffee ritual.",
+  "description": "A café concept shaped by olive-green sculptural forms and warm natural light. A rounded ribbed counter and overhead frame create the focal point, while curved upholstered seating, pale textured surfaces and planting give the interior a softer rhythm. Full-height glazing connects the seating area with the trees outside; warm lighting carries the atmosphere into the evening.",
+  "role": "Concept design and creative direction: spatial idea, atmosphere, colour and finish direction, furniture direction and art direction of the concept visuals. Self-initiated concept study, not a built project.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Entrance · Coffee counter · Lounge seating"
+    }
+  ],
+  "lead": {
+    "src": "assets/cafe-01.webp",
+    "full": "assets/cafe-01.webp",
+    "alt": "Arrival view of the olive-green café concept",
+    "caption": "Arrival: full-height glazing reveals the olive-green coffee counter."
+  },
+  "images": [
+    {
+      "src": "assets/cafe-05.webp",
+      "full": "assets/cafe-05.webp",
+      "alt": "Café seating with olive upholstery and planting",
+      "caption": "Seating: curved upholstery, planting and soft daylight."
+    }
+  ],
+  "cover": "cafe-01.webp"
+}
