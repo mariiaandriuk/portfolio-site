@@ -102,15 +102,15 @@
 
 .m-index{display:none}
 /* ======== Palette: deep green, ochre, soft gold ======== */
-:root{--bg:#052b1e;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
-body{background:#052b1e}
+:root{--bg:#06323a;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
+body{background:#06323a}
 .studio,.collection,.service-grid article,.process-grid li{border-color:#e3c27d2e}
-.sig{background:#052b1e}
+.sig{background:#06323a}
 .sig::after{background:linear-gradient(180deg,#0000 45%,#04281bd8 100%)}
 /* ======== Hero: triptych of arches + category index ======== */
-.cinematic-hero{background:#052b1e}
+.cinematic-hero{background:#06323a}
 .cinematic-hero .photo,.cinematic-hero .shade,.cinematic-hero .copy,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.hero-motion,.scroll-cue{display:none}
-.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:#052b1e}
+.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:#06323a}
 .mi-win{position:absolute;left:50%;transform:translateX(-50%);width:var(--tw);display:flex;align-items:flex-end;justify-content:space-between}
 .mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1px solid #d9b25f;outline-offset:5px;box-shadow:none}
 .mi-win .ar-l,.mi-win .ar-r{width:44%;height:100%}
@@ -160,11 +160,11 @@ body{background:#052b1e}
 @media(prefers-reduced-motion:reduce){.mi-list a span,.mi-list a small,.mi-name,.mi-tag{animation:none}}
 .mi-list a small{font-weight:600;letter-spacing:.14em;background-image:linear-gradient(95deg,#ff8a1a 0%,#ffc04d 50%,#ff9a2a 100%)}
 
-/* ======== Emerald satin background ======== */
-html{background:#053826}
+/* ======== Petrol satin background ======== */
+html{background:#06323a}
 body{background:transparent}
 body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:
- linear-gradient(104deg,#0000 2%,#000e0aa6 10%,#0000 20%,#58d9a655 25%,#b4f8dc78 28%,#58d9a63a 33%,#0000 42%,#000e0aba 52%,#0000 62%,#58d9a64d 68%,#a0f3d46a 71%,#58d9a630 76%,#0000 85%,#000e0a99 93%,#0000 100%),
- linear-gradient(76deg,#0000 0,#000e0a80 16%,#0000 32%,#58d9a630 45%,#8ff0cb40 48%,#0000 60%,#000e0a70 78%,#0000 100%),
- linear-gradient(180deg,#0a6248,#064732 55%,#053826)}
+ linear-gradient(104deg,#0000 2%,#00101499 10%,#0000 20%,#4fb5b448 25%,#9fe3e068 28%,#4fb5b432 33%,#0000 42%,#001014b0 52%,#0000 62%,#4fb5b444 68%,#8fdcd95c 71%,#4fb5b42a 76%,#0000 85%,#00101490 93%,#0000 100%),
+ linear-gradient(76deg,#0000 0,#00101478 16%,#0000 32%,#4fb5b428 45%,#7fd3d038 48%,#0000 60%,#00101468 78%,#0000 100%),
+ linear-gradient(180deg,#0b4850,#073840 55%,#052d34)}
 .sig,.cinematic-hero,.m-index{background:transparent!important}
