@@ -99,3 +99,15 @@
 @media(max-width:700px){.cinematic-hero h1{font-size:44px}.studio{padding-top:90px;padding-bottom:80px}.studio-statement{font-size:34px}}
 .studio-note{font:400 14px/1.85 Manrope,sans-serif;color:#b9b6ab;margin:0;max-width:62ch;border-left:1px solid var(--gold-soft);padding-left:22px}
 @media(max-width:900px){.sig-wide{width:92%}}
+
+/* ======== Mobile hero (<=700px) ======== */
+@media(max-width:700px){
+  .cinematic-hero{height:100svh;min-height:560px}
+  .cinematic-hero .shade{background:linear-gradient(180deg,#0a0d0b99 0%,#0000 22%,#0000 48%,#0b0d0bd9 82%,#0b0d0b 100%)}
+  .cinematic-hero .copy{left:22px;right:22px;top:auto;bottom:34px}
+  .cinematic-hero .eyebrow,.cinematic-hero .desc,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.scroll-cue{display:none}
+  .cinematic-hero h1{font-size:44px;line-height:1.06;margin:0 0 22px}
+  .cinematic-hero .hd-long{display:none}
+  .cinematic-hero .button{display:block;text-align:center;padding:17px 16px;font-size:10.5px}
+  .hero-motion{display:none}
+}
