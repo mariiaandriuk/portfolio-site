@@ -159,3 +159,12 @@ body{background:#052b1e}
 @keyframes orangeShimmer{from{background-position:0 0}to{background-position:100% 0}}
 @media(prefers-reduced-motion:reduce){.mi-list a span,.mi-list a small,.mi-name,.mi-tag{animation:none}}
 .mi-list a small{font-weight:600;letter-spacing:.14em;background-image:linear-gradient(95deg,#ff8a1a 0%,#ffc04d 50%,#ff9a2a 100%)}
+
+/* ======== Emerald satin background ======== */
+html{background:#053a28}
+body{background:transparent}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:
+ linear-gradient(105deg,#0000 0,#46c9964a 12%,#0000 28%,#00140c80 42%,#0000 55%,#4fd6a040 68%,#0000 80%,#00140c70 92%,#0000 100%),
+ linear-gradient(70deg,#0000 0,#00100a55 20%,#0000 38%,#7fe8bd24 52%,#0000 66%,#00100a50 86%,#0000 100%),
+ linear-gradient(180deg,#09593e,#064530 55%,#053826)}
+.sig,.cinematic-hero,.m-index{background:transparent!important}
