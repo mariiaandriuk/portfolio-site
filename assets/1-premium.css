@@ -102,17 +102,17 @@
 
 .m-index{display:none}
 /* ======== Palette: deep green, ochre, soft gold ======== */
-:root{--bg:#04412c;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
-body{background:radial-gradient(ellipse at 80% 8%,#0a6a47 0,#0000 55%),linear-gradient(118deg,#022a1d,#05492f 48%,#03321f)}
+:root{--bg:#052b1e;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
+body{background:linear-gradient(180deg,#052b1e,#063625 50%,#052b1e)}
 .studio,.collection,.service-grid article,.process-grid li{border-color:#e3c27d2e}
-.sig{background:#033a27}
+.sig{background:#052b1e}
 .sig::after{background:linear-gradient(180deg,#0000 45%,#04281bd8 100%)}
 /* ======== Hero: triptych of arches + category index ======== */
-.cinematic-hero{background:#033a27}
+.cinematic-hero{background:#052b1e}
 .cinematic-hero .photo,.cinematic-hero .shade,.cinematic-hero .copy,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.hero-motion,.scroll-cue{display:none}
-.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(31vw,440px);background:radial-gradient(ellipse 60% 62% at 50% 42%,#12915f55 0,#0a6a4755 42%,transparent 74%),radial-gradient(ellipse at 50% 40%,#0b6b47 0,#064a32 50%,#022a1d 100%)}
+.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:linear-gradient(180deg,#063322,#052b1e)}
 .mi-win{position:absolute;left:50%;transform:translateX(-50%);width:var(--tw);display:flex;align-items:flex-end;justify-content:space-between}
-.mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1.5px solid #e8b84a;outline-offset:7px;box-shadow:0 0 60px 8px #e8b84a22}
+.mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1px solid #d9b25f;outline-offset:5px;box-shadow:none}
 .mi-win .ar-l,.mi-win .ar-r{width:44%;height:100%}
 .mi-win img{width:100%;height:100%;object-fit:cover;display:block}
 .mi-win .ar-l img{filter:saturate(1.3) contrast(1.05)}
@@ -142,9 +142,9 @@ body{background:radial-gradient(ellipse at 80% 8%,#0a6a47 0,#0000 55%),linear-gr
 }
 @media(max-width:700px){
  .cinematic-hero{height:100svh;min-height:600px}
- .m-index{--tw:min(66vw,280px)}
+ .m-index{--tw:min(52vw,210px)}
  .mi-win{top:100px;height:28svh}
- .mi-win .ar{outline-offset:4px;box-shadow:none}
+ .mi-win .ar{outline-offset:3px;box-shadow:none}
  .mi-list{position:absolute;left:24px;right:24px;top:calc(100px + 28svh + 24px)}
  .mi-list a{display:flex;justify-content:space-between;align-items:baseline;padding:clamp(8px,1.7svh,14px) 0}
  .mi-list a span{font-size:24px;line-height:1.1}
