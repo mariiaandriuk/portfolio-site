@@ -102,15 +102,15 @@
 
 .m-index{display:none}
 /* ======== Palette: deep green, ochre, soft gold ======== */
-:root{--bg:#06323a;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
-body{background:#06323a}
+:root{--bg:#021b1f;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
+body{background:#021b1f}
 .studio,.collection,.service-grid article,.process-grid li{border-color:#e3c27d2e}
-.sig{background:#06323a}
+.sig{background:#021b1f}
 .sig::after{background:linear-gradient(180deg,#0000 45%,#04281bd8 100%)}
 /* ======== Hero: triptych of arches + category index ======== */
-.cinematic-hero{background:#06323a}
+.cinematic-hero{background:#021b1f}
 .cinematic-hero .photo,.cinematic-hero .shade,.cinematic-hero .copy,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.hero-motion,.scroll-cue{display:none}
-.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:#06323a}
+.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:#021b1f}
 .mi-win{position:absolute;left:50%;transform:translateX(-50%);width:var(--tw);display:flex;align-items:flex-end;justify-content:space-between}
 .mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1px solid #d9b25f;outline-offset:5px;box-shadow:none}
 .mi-win .ar-l,.mi-win .ar-r{width:44%;height:100%}
@@ -161,10 +161,10 @@ body{background:#06323a}
 .mi-list a small{font-weight:600;letter-spacing:.14em;background-image:linear-gradient(95deg,#ff8a1a 0%,#ffc04d 50%,#ff9a2a 100%)}
 
 /* ======== Petrol satin background ======== */
-html{background:#06323a}
+html{background:#021b1f}
 body{background:transparent}
 body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:
- linear-gradient(104deg,#0000 2%,#00101499 10%,#0000 20%,#4fb5b448 25%,#9fe3e068 28%,#4fb5b432 33%,#0000 42%,#001014b0 52%,#0000 62%,#4fb5b444 68%,#8fdcd95c 71%,#4fb5b42a 76%,#0000 85%,#00101490 93%,#0000 100%),
- linear-gradient(76deg,#0000 0,#00101478 16%,#0000 32%,#4fb5b428 45%,#7fd3d038 48%,#0000 60%,#00101468 78%,#0000 100%),
- linear-gradient(180deg,#0b4850,#073840 55%,#052d34)}
+ linear-gradient(104deg,#0000 2%,#00101499 10%,#0000 20%,#4fb5b42c 25%,#9fe3e03c 28%,#4fb5b41e 33%,#0000 42%,#001014b0 52%,#0000 62%,#4fb5b418 68%,#8fdcd936 71%,#4fb5b418 76%,#0000 85%,#00101490 93%,#0000 100%),
+ linear-gradient(76deg,#0000 0,#00101478 16%,#0000 32%,#4fb5b418 45%,#7fd3d020 48%,#0000 60%,#00101468 78%,#0000 100%),
+ linear-gradient(180deg,#04262d,#021b1f 55%,#011015)}
 .sig,.cinematic-hero,.m-index{background:transparent!important}
