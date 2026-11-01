@@ -80,3 +80,10 @@
 .mi-list a span{font-size:clamp(20px,2.9vh,29px)!important;letter-spacing:.04em}
 .mi-name{font-size:clamp(34px,4.7vw,70px)!important;letter-spacing:.12em!important}
 @media(max-width:700px){.mi-list a span{font-size:17px!important;letter-spacing:.02em}.mi-name{font-size:22px!important;letter-spacing:.08em!important}}
+
+/* Page background: same petrol satin behind the whole page (fixed); content below the hero is unchanged */
+body{background-color:#021b1f;background-image:
+ linear-gradient(104deg,#0000 2%,#0010144d 10%,#0000 20%,#4fb5b40d 25%,#9fe3e012 28%,#4fb5b40a 33%,#0000 42%,#00101458 52%,#0000 62%,#4fb5b408 68%,#8fdcd90f 71%,#4fb5b408 76%,#0000 85%,#00101446 93%,#0000 100%),
+ linear-gradient(76deg,#0000 0,#00101440 16%,#0000 32%,#4fb5b408 45%,#7fd3d00a 48%,#0000 60%,#00101438 78%,#0000 100%),
+ linear-gradient(180deg,#04262d,#021b1f 55%,#011015);background-attachment:fixed}
+.cinematic-hero{background:transparent}
