@@ -117,8 +117,8 @@
 /* laptop */
 @media(min-width:701px){
  .cinematic-hero{height:100vh;min-height:640px}
- .mi-win{top:12vh;width:min(28vw,400px);height:min(62vh,560px);border-radius:999px 999px 0 0}
- .mi-list{position:absolute;left:0;right:0;top:calc(12vh + 58px)}
+ .mi-win{top:max(108px,12vh);width:min(28vw,400px);height:min(62vh,560px);border-radius:999px 999px 0 0}
+ .mi-list{position:absolute;left:0;right:0;top:calc(max(108px,12vh) + 58px)}
  .mi-list ul{display:grid;grid-template-columns:1fr min(28vw,400px) 1fr;column-gap:clamp(40px,5vw,90px);padding:0 clamp(40px,5.5vw,90px)}
  .mi-list li:nth-child(-n+3){grid-column:1;text-align:left}
  .mi-list li:nth-child(n+4){grid-column:3;text-align:right}
@@ -126,6 +126,7 @@
  .mi-list a{padding:clamp(14px,2.6vh,24px) 0;transition:color .3s}
  .mi-list a span{font-size:clamp(26px,3.6vh,36px);line-height:1.05}
  .mi-list a small{margin-top:8px}
+ .mi-list a small[data-one]:after{content:" project"}
  .mi-list a:hover span{font-style:italic;color:#fff}
  .mi-name{bottom:calc(6vh + 22px);font-size:clamp(40px,6vw,86px);line-height:1;letter-spacing:.16em}
  .mi-tag{bottom:4vh}
