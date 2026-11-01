@@ -1,0 +1,59 @@
+{
+ "slug": "hush-garden",
+ "category": "Wellness",
+ "published": true,
+ "title": "HUSH GARDEN",
+ "kind": "Spa and relaxation garden concept",
+ "description": "HUSH GARDEN is a spa and relaxation garden concept under a glass roof, designed around quiet rest. Leaf-shaped cocoons sit apart from one another between planting and water, so each guest has a sheltered, private place to rest while the hall stays open and connected. A stream, a waterfall pool and a timber walkway give the space its structure and a calm focal point. The palette sets glossy veined leaf surfaces against matte cream textile, stone, water and wood. Daylight through the glass sets the overall tone, and warm lanterns add a softer ambient glow.",
+ "role": "Concept design, creative direction and visual storytelling - Mariia Andriiuk.",
+ "meta_description": "A spa and relaxation garden concept under a glass roof, designed around quiet rest. Leaf-shaped cocoons sit apart between planting and water under daylight from the glass.",
+ "sections": [
+  {
+   "heading": "Project status",
+   "body": "Independent concept. Unbuilt."
+  }
+ ],
+ "lead": {
+  "full": "assets/hush-garden-01-cocoon-detail.jpg",
+  "src": "assets/hush-garden-01-cocoon-detail-display.webp",
+  "alt": "HUSH GARDEN, cocoon detail",
+  "caption": "Cocoon detail. A glossy, veined leaf shell wraps a matte cream textile interior: a defined outer form, a soft place to rest, with the stream close by."
+ },
+ "images": [
+  {
+   "full": "assets/hush-garden-02-waterfall-pool.jpg",
+   "src": "assets/hush-garden-02-waterfall-pool-display.webp",
+   "alt": "HUSH GARDEN, waterfall pool",
+   "caption": "The waterfall pool. The cascade is the calm centre of the hall, the walkway crosses above, and cocoons sit among the planting on either side, each in its own leafy shelter."
+  },
+  {
+   "full": "assets/hush-garden-03-garden-hall.jpg",
+   "src": "assets/hush-garden-03-garden-hall-display.webp",
+   "alt": "HUSH GARDEN, front view of the garden hall",
+   "caption": "Garden hall, front view. Cocoons are spaced apart between planting and water under the glass roof, giving each guest privacy without closing off the room."
+  },
+  {
+   "full": "assets/hush-garden-04-high-angle.jpg",
+   "src": "assets/hush-garden-04-high-angle-display.webp",
+   "alt": "HUSH GARDEN, high-angle view",
+   "caption": "High-angle view. The stone path and the stream lead through the planting, and the cocoons are set at a distance from one another along the water’s edge."
+  },
+  {
+   "full": "assets/hush-garden-05-lighting.jpg",
+   "src": "assets/hush-garden-05-lighting-display.webp",
+   "alt": "HUSH GARDEN, lighting mood board",
+   "caption": "Lighting mood. Daylight through the glass sets the tone of the hall, while warm lanterns add a soft, low glow around the cocoons and reflect on the water."
+  },
+  {
+   "full": "assets/hush-garden-06-materials.jpg",
+   "src": "assets/hush-garden-06-materials-display.webp",
+   "alt": "HUSH GARDEN, material palette board",
+   "caption": "Material palette. Glossy veined leaf surfaces set against matte cream textile, with stone, water, wood and woven textures grounding the space."
+  }
+ ],
+ "tagline": "A spa and relaxation garden concept under a glass roof, designed around quiet rest.",
+ "cover": "hush-garden-01-cocoon-detail-display.webp",
+ "cover_alt": "HUSH GARDEN - Spa and relaxation garden concept",
+ "card_kind": "Spa and relaxation garden concept",
+ "card_note": "A spa and relaxation garden concept under a glass roof, designed around quiet rest."
+}
