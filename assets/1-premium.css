@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 /* Premium homepage layer (preview). Loaded on index.html only. */
 :root{--gold:#e3c27d;--gold-soft:#c9a35a;--ivory:#f2ead7;--ink:#0e1a14;--hair:#ffffff26}
 
@@ -168,3 +169,9 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;ba
  linear-gradient(76deg,#0000 0,#00101478 16%,#0000 32%,#4fb5b418 45%,#7fd3d020 48%,#0000 60%,#00101468 78%,#0000 100%),
  linear-gradient(180deg,#04262d,#021b1f 55%,#011015)}
 .sig,.cinematic-hero,.m-index{background:transparent!important}
+
+/* ======== Hero typography: Cinzel ======== */
+.mi-list a span,.mi-name{font-family:'Cinzel','Cormorant Garamond',serif!important;font-weight:500!important}
+.mi-list a span{font-size:clamp(20px,2.9vh,29px)!important;letter-spacing:.04em}
+.mi-name{font-size:clamp(34px,4.7vw,70px)!important;letter-spacing:.12em!important}
+@media(max-width:700px){.mi-list a span{font-size:17px!important;letter-spacing:.02em}.mi-name{font-size:22px!important;letter-spacing:.08em!important}}
