@@ -102,23 +102,23 @@
 
 .m-index{display:none}
 /* ======== Palette: deep green, ochre, soft gold ======== */
-:root{--bg:#0a4a32;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
-body{background:radial-gradient(ellipse at 80% 8%,#128060 0,#0000 55%),linear-gradient(118deg,#06402b,#0b5a3c 48%,#07452e)}
+:root{--bg:#04412c;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
+body{background:radial-gradient(ellipse at 80% 8%,#0a6a47 0,#0000 55%),linear-gradient(118deg,#022a1d,#05492f 48%,#03321f)}
 .studio,.collection,.service-grid article,.process-grid li{border-color:#e3c27d2e}
-.sig{background:#06402b}
+.sig{background:#033a27}
 .sig::after{background:linear-gradient(180deg,#0000 45%,#04281bd8 100%)}
 /* ======== Hero: triptych of arches + category index ======== */
-.cinematic-hero{background:#06402b}
+.cinematic-hero{background:#033a27}
 .cinematic-hero .photo,.cinematic-hero .shade,.cinematic-hero .copy,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.hero-motion,.scroll-cue{display:none}
-.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(37vw,540px);background:radial-gradient(ellipse 60% 62% at 50% 42%,#1fae7a66 0,#0f8a5f55 42%,transparent 74%),radial-gradient(ellipse at 50% 40%,#0f8a5f 0,#0a6a47 48%,#053a27 100%)}
+.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(31vw,440px);background:radial-gradient(ellipse 60% 62% at 50% 42%,#12915f55 0,#0a6a4755 42%,transparent 74%),radial-gradient(ellipse at 50% 40%,#0b6b47 0,#064a32 50%,#022a1d 100%)}
 .mi-win{position:absolute;left:50%;transform:translateX(-50%);width:var(--tw);display:flex;align-items:flex-end;justify-content:space-between}
-.mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1px solid #e3c27d;outline-offset:5px}
-.mi-win .ar-c{width:44%;height:100%}.mi-win .ar-l,.mi-win .ar-r{width:24%;height:66%}
+.mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1.5px solid #e8b84a;outline-offset:7px;box-shadow:0 0 60px 8px #e8b84a22}
+.mi-win .ar-l,.mi-win .ar-r{width:44%;height:100%}
 .mi-win img{width:100%;height:100%;object-fit:cover;display:block}
-.mi-win .ar-c img{object-position:50% 50%;filter:saturate(1.3) contrast(1.05)}
+.mi-win .ar-l img{filter:saturate(1.3) contrast(1.05)}
 .mi-win .ar-l img{object-position:50% 50%}.mi-win .ar-r img{object-position:50% 50%}
 .mi-list ul{list-style:none;margin:0;padding:0}
-.mi-list a{display:block;color:#f2ead7;text-decoration:none;-webkit-tap-highlight-color:transparent;border-bottom:1px solid #c28a2c55}
+.mi-list a{display:block;color:#f2ead7;text-decoration:none;-webkit-tap-highlight-color:transparent;border-bottom:1px solid #e8b84a66}
 .mi-list a span{font-family:'Cormorant Garamond',serif;font-weight:300}
 .mi-list a small{display:block;font:400 10px Manrope,sans-serif;letter-spacing:.2em;color:#f0c566;text-transform:uppercase}
 .mi-list a small:after{content:" projects"}
@@ -136,15 +136,15 @@ body{background:radial-gradient(ellipse at 80% 8%,#128060 0,#0000 55%),linear-gr
  .mi-list a{padding:clamp(14px,2.6vh,24px) 0;transition:color .3s}
  .mi-list a span{font-size:clamp(26px,3.6vh,36px);line-height:1.05}
  .mi-list a small{margin-top:8px}
- .mi-list a:hover span{font-style:italic;color:#fff}
+ .mi-list a:hover span{font-style:italic}
  .mi-name{bottom:calc(6vh + 22px);font-size:clamp(40px,6vw,86px);line-height:1;letter-spacing:.16em}
  .mi-tag{bottom:4vh}
 }
 @media(max-width:700px){
  .cinematic-hero{height:100svh;min-height:600px}
- .m-index{--tw:min(86vw,340px)}
+ .m-index{--tw:min(66vw,280px)}
  .mi-win{top:100px;height:28svh}
- .mi-win .ar{outline-offset:5px}
+ .mi-win .ar{outline-offset:4px;box-shadow:none}
  .mi-list{position:absolute;left:24px;right:24px;top:calc(100px + 28svh + 24px)}
  .mi-list a{display:flex;justify-content:space-between;align-items:baseline;padding:clamp(8px,1.7svh,14px) 0}
  .mi-list a span{font-size:24px;line-height:1.1}
@@ -153,3 +153,9 @@ body{background:radial-gradient(ellipse at 80% 8%,#128060 0,#0000 55%),linear-gr
  .mi-name{bottom:56px;font-size:30px;letter-spacing:.14em}
  .mi-tag{bottom:28px;font-size:8px;letter-spacing:.24em}
 }
+
+/* ======== Orange shimmer text ======== */
+.mi-list a span,.mi-list a small,.mi-name,.mi-tag{background:linear-gradient(95deg,#ff5a00 0%,#ff8a1a 22%,#ffd27a 50%,#ff7a12 78%,#ff5a00 100%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;animation:orangeShimmer 9s ease-in-out infinite alternate}
+@keyframes orangeShimmer{from{background-position:0 0}to{background-position:100% 0}}
+@media(prefers-reduced-motion:reduce){.mi-list a span,.mi-list a small,.mi-name,.mi-tag{animation:none}}
+.mi-list a small{font-weight:600;letter-spacing:.14em;background-image:linear-gradient(95deg,#ff8a1a 0%,#ffc04d 50%,#ff9a2a 100%)}
