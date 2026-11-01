@@ -103,14 +103,14 @@
 .m-index{display:none}
 /* ======== Palette: deep green, ochre, soft gold ======== */
 :root{--bg:#052b1e;--text:#f2ead7;--muted:#d8d2b4;--accent:#c9a35a}
-body{background:linear-gradient(180deg,#052b1e,#063625 50%,#052b1e)}
+body{background:#052b1e}
 .studio,.collection,.service-grid article,.process-grid li{border-color:#e3c27d2e}
 .sig{background:#052b1e}
 .sig::after{background:linear-gradient(180deg,#0000 45%,#04281bd8 100%)}
 /* ======== Hero: triptych of arches + category index ======== */
 .cinematic-hero{background:#052b1e}
 .cinematic-hero .photo,.cinematic-hero .shade,.cinematic-hero .copy,.cinematic-hero .label,.cinematic-hero .bottom,.cinematic-hero .progress,.hero-motion,.scroll-cue{display:none}
-.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:linear-gradient(180deg,#063322,#052b1e)}
+.m-index{display:block;position:absolute;inset:0;z-index:3;color:#f2ead7;--tw:min(23vw,330px);background:#052b1e}
 .mi-win{position:absolute;left:50%;transform:translateX(-50%);width:var(--tw);display:flex;align-items:flex-end;justify-content:space-between}
 .mi-win .ar{display:block;position:relative;overflow:hidden;border-radius:999px 999px 0 0;background:#161614;outline:1px solid #d9b25f;outline-offset:5px;box-shadow:none}
 .mi-win .ar-l,.mi-win .ar-r{width:44%;height:100%}
