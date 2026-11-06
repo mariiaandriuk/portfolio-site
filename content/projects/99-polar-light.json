@@ -1,0 +1,62 @@
+{
+ "slug": "polar-light",
+ "category": "Restaurants & cafes",
+ "published": true,
+ "title": "POLAR LIGHT",
+ "kind": "Restaurant & bar concept",
+ "tagline": "A sea grotto, transformed by light.",
+ "description": "A restaurant and bar imagined inside a sea grotto. Violet light and daylight shape the daytime atmosphere; green joins the violet after dusk for a northern-lights effect across the rock. Purple corduroy velvet, dark marble, backlit green stone and brass give the space its tactile character.",
+ "role": "Concept design and creative direction: concept story, guest journey, material palette, furniture direction and lighting atmosphere. Self-initiated concept study, not a built project.",
+ "sections": [
+  {
+   "heading": "Spaces",
+   "body": "Water arrival · Dining hall · Bar"
+  }
+ ],
+ "lead": {
+  "src": "assets/polar-01.webp",
+  "full": "assets/polar-01.webp",
+  "alt": "Daylight and violet light in the dining hall.",
+  "caption": "Daylight and violet light in the dining hall."
+ },
+ "images": [
+  {
+   "src": "assets/polar-04.webp",
+   "full": "assets/polar-04.webp",
+   "alt": "The evening atmosphere: green joins violet across the grotto.",
+   "caption": "The evening atmosphere: green joins violet across the grotto."
+  },
+  {
+   "full": "assets/polar-02-cave-lounge.webp",
+   "src": "assets/polar-02-cave-lounge-display.webp",
+   "alt": "POLAR LIGHT, cave lounge at dusk",
+   "caption": ""
+  },
+  {
+   "full": "assets/polar-03-sunset-arch.webp",
+   "src": "assets/polar-03-sunset-arch-display.webp",
+   "alt": "POLAR LIGHT, sunset arch over the water",
+   "caption": ""
+  },
+  {
+   "full": "assets/polar-05-bar.webp",
+   "src": "assets/polar-05-bar-display.webp",
+   "alt": "POLAR LIGHT, bar with green-lit stone",
+   "caption": ""
+  },
+  {
+   "full": "assets/polar-06-bar-counter.webp",
+   "src": "assets/polar-06-bar-counter-display.webp",
+   "alt": "POLAR LIGHT, bar counter and stools",
+   "caption": ""
+  },
+  {
+   "full": "assets/polar-07-sofa-detail.webp",
+   "src": "assets/polar-07-sofa-detail-display.webp",
+   "alt": "POLAR LIGHT, sculptural violet seating",
+   "caption": ""
+  }
+ ],
+ "cover": "polar-01.webp",
+ "cover_alt": "POLAR LIGHT - Restaurant & bar concept"
+}
