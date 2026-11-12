@@ -1,39 +1,93 @@
 {
- "slug": "japanese-winter-mountain-hotel",
- "category": "Hotels",
- "published": true,
- "title": "Japanese Winter Mountain Hotel",
- "kind": "Boutique hotel concept",
- "description": "A boutique hotel concept in the snowy mountains of Japan, beside waterfalls. Panoramic windows open onto snow, rock and falling water; warm onsen pools sit on the terraces. Inside, the mood is dark and quiet: black timber, stone, paper screens and lantern light. Some windows face the waterfall; others open only onto the pine forest.",
- "role": "Concept design, creative direction and visual storytelling - Mariia Andriiuk.",
- "meta_description": "A boutique hotel beside waterfalls in the snowy mountains of Japan. A boutique hotel concept in the snowy mountains of Japan, beside waterfalls.",
- "sections": [
-  {
-   "heading": "Spaces",
-   "body": "Terrace pool · Entrance · Covered walkway · Dining room · Spa lounge · Guest rooms · Courtyard"
+  "slug": "japanese-winter-mountain-hotel",
+  "category": "Hotels",
+  "published": true,
+  "title": "Japanese Winter Mountain Hotel",
+  "kind": "Boutique hotel concept",
+  "description": "A boutique hotel concept in the snowy mountains of Japan, beside waterfalls. Panoramic windows open onto snow, rock and falling water; warm onsen pools sit on the terraces. Inside, the mood is dark and quiet: black timber, stone, paper screens and lantern light. Some windows face the waterfall; others open only onto the pine forest.",
+  "role": "Concept design, creative direction and visual storytelling - Mariia Andriiuk.",
+  "meta_description": "A boutique hotel beside waterfalls in the snowy mountains of Japan. A boutique hotel concept in the snowy mountains of Japan, beside waterfalls.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Terrace pool · Entrance · Covered walkway · Dining room · Spa lounge · Guest rooms · Courtyard"
+    },
+    {
+      "heading": "Project status",
+      "body": "Independent concept. Unbuilt."
+    }
+  ],
+  "lead": {
+    "full": "assets/6-japanese-winter-mountain-hotel-01.webp",
+    "src": "assets/5-japanese-winter-mountain-hotel-01-display.webp",
+    "alt": "Japanese Winter Mountain Hotel, main view",
+    "caption": ""
   },
-  {
-   "heading": "Project status",
-   "body": "Independent concept. Unbuilt."
-  }
- ],
- "lead": {
-  "full": "assets/6-japanese-winter-mountain-hotel-01.webp",
-  "src": "assets/5-japanese-winter-mountain-hotel-01-display.webp",
-  "alt": "Japanese Winter Mountain Hotel, main view",
-  "caption": ""
- },
- "images": [
-  {
-   "full": "assets/8-japanese-winter-mountain-hotel-02.webp",
-   "src": "assets/7-japanese-winter-mountain-hotel-02-display.webp",
-   "alt": "Japanese Winter Mountain Hotel, second view",
-   "caption": ""
-  }
- ],
- "tagline": "A boutique hotel beside waterfalls in the snowy mountains of Japan.",
- "cover": "5-japanese-winter-mountain-hotel-01-display.webp",
- "cover_alt": "Japanese Winter Mountain Hotel - Boutique hotel concept",
- "card_kind": "Boutique hotel concept",
- "card_note": "A boutique hotel beside waterfalls in the snowy mountains of Japan."
+  "images": [
+    {
+      "full": "assets/8-japanese-winter-mountain-hotel-02.webp",
+      "src": "assets/7-japanese-winter-mountain-hotel-02-display.webp",
+      "alt": "Japanese Winter Mountain Hotel, second view",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-02.webp",
+      "src": "assets/jwm-02.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 3",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-03.webp",
+      "src": "assets/jwm-03.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 4",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-04.webp",
+      "src": "assets/jwm-04.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 5",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-05.webp",
+      "src": "assets/jwm-05.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 6",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-06.webp",
+      "src": "assets/jwm-06.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 7",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-07.webp",
+      "src": "assets/jwm-07.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 8",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-08.webp",
+      "src": "assets/jwm-08.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 9",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-10.webp",
+      "src": "assets/jwm-10.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 10",
+      "caption": ""
+    },
+    {
+      "full": "assets/jwm-11.webp",
+      "src": "assets/jwm-11.webp",
+      "alt": "Japanese Winter Mountain Hotel, view 11",
+      "caption": ""
+    }
+  ],
+  "tagline": "A boutique hotel beside waterfalls in the snowy mountains of Japan.",
+  "cover": "5-japanese-winter-mountain-hotel-01-display.webp",
+  "cover_alt": "Japanese Winter Mountain Hotel - Boutique hotel concept",
+  "card_kind": "Boutique hotel concept",
+  "card_note": "A boutique hotel beside waterfalls in the snowy mountains of Japan."
 }

@@ -25,6 +25,24 @@
       "full": "assets/cafe-05.webp",
       "alt": "Café seating with olive upholstery and planting",
       "caption": "Seating: curved upholstery, planting and soft daylight."
+    },
+    {
+      "full": "assets/golden-02.webp",
+      "src": "assets/golden-02.webp",
+      "alt": "Daytime seating: olive upholstery and rounded cream chairs.",
+      "caption": "Daytime seating: olive upholstery and rounded cream chairs."
+    },
+    {
+      "full": "assets/golden-03.webp",
+      "src": "assets/golden-03.webp",
+      "alt": "Evening atmosphere: warm light around the counter.",
+      "caption": "Evening atmosphere: warm light around the counter."
+    },
+    {
+      "full": "assets/golden-04.webp",
+      "src": "assets/golden-04.webp",
+      "alt": "Counter detail: fluted forms, veined green stone and pendant lights.",
+      "caption": "Counter detail: fluted forms, veined green stone and pendant lights."
     }
   ],
   "cover": "cafe-01.webp"

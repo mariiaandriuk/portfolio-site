@@ -1,39 +1,63 @@
 {
- "slug": "black-lotus",
- "category": "Restaurants & cafes",
- "published": true,
- "title": "BLACK LOTUS",
- "kind": "Restaurant concept",
- "description": "A restaurant concept built around dining tables set inside black lotus forms, in a water garden. Guests arrive through a large lotus arch and pass a host desk beside the water. The hall is lit by a rain chandelier and gold detailing. By day the same space opens under a glass atrium with light stone, planting and a waterfall wall.",
- "role": "Concept design, creative direction and visual storytelling - Mariia Andriiuk.",
- "meta_description": "A restaurant hall with tables set inside black lotus forms, in a water garden. A restaurant concept built around dining tables set inside black lotus forms, in a water garden.",
- "sections": [
-  {
-   "heading": "Spaces",
-   "body": "Arrival · Hall at night · Lotus table · Hall by day"
+  "slug": "black-lotus",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "BLACK LOTUS",
+  "kind": "Restaurant concept",
+  "description": "A restaurant concept built around dining tables set inside black lotus forms, in a water garden. Guests arrive through a large lotus arch and pass a host desk beside the water. The hall is lit by a rain chandelier and gold detailing. By day the same space opens under a glass atrium with light stone, planting and a waterfall wall.",
+  "role": "Concept design, creative direction and visual storytelling - Mariia Andriiuk.",
+  "meta_description": "A restaurant hall with tables set inside black lotus forms, in a water garden. A restaurant concept built around dining tables set inside black lotus forms, in a water garden.",
+  "sections": [
+    {
+      "heading": "Spaces",
+      "body": "Arrival · Hall at night · Lotus table · Hall by day"
+    },
+    {
+      "heading": "Project status",
+      "body": "Independent concept. Unbuilt."
+    }
+  ],
+  "lead": {
+    "full": "assets/2-black-lotus-01.webp",
+    "src": "assets/1-black-lotus-01-display.webp",
+    "alt": "BLACK LOTUS, main view",
+    "caption": ""
   },
-  {
-   "heading": "Project status",
-   "body": "Independent concept. Unbuilt."
-  }
- ],
- "lead": {
-  "full": "assets/2-black-lotus-01.webp",
-  "src": "assets/1-black-lotus-01-display.webp",
-  "alt": "BLACK LOTUS, main view",
-  "caption": ""
- },
- "images": [
-  {
-   "full": "assets/4-black-lotus-02.webp",
-   "src": "assets/3-black-lotus-02-display.webp",
-   "alt": "BLACK LOTUS, second view",
-   "caption": ""
-  }
- ],
- "tagline": "A restaurant hall with tables set inside black lotus forms, in a water garden.",
- "cover": "1-black-lotus-01-display.webp",
- "cover_alt": "BLACK LOTUS - Restaurant concept",
- "card_kind": "Restaurant concept",
- "card_note": "A restaurant hall with tables set inside black lotus forms, in a water garden."
+  "images": [
+    {
+      "full": "assets/4-black-lotus-02.webp",
+      "src": "assets/3-black-lotus-02-display.webp",
+      "alt": "BLACK LOTUS, second view",
+      "caption": ""
+    },
+    {
+      "full": "assets/black-03.webp",
+      "src": "assets/black-03.webp",
+      "alt": "BLACK LOTUS, view 3",
+      "caption": ""
+    },
+    {
+      "full": "assets/black-04.webp",
+      "src": "assets/black-04.webp",
+      "alt": "BLACK LOTUS, view 4",
+      "caption": ""
+    },
+    {
+      "full": "assets/black-05.webp",
+      "src": "assets/black-05.webp",
+      "alt": "BLACK LOTUS, view 5",
+      "caption": ""
+    },
+    {
+      "full": "assets/black-06.webp",
+      "src": "assets/black-06.webp",
+      "alt": "BLACK LOTUS, view 6",
+      "caption": ""
+    }
+  ],
+  "tagline": "A restaurant hall with tables set inside black lotus forms, in a water garden.",
+  "cover": "1-black-lotus-01-display.webp",
+  "cover_alt": "BLACK LOTUS - Restaurant concept",
+  "card_kind": "Restaurant concept",
+  "card_note": "A restaurant hall with tables set inside black lotus forms, in a water garden."
 }
