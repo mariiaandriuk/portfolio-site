@@ -1,53 +1,53 @@
 {
- "slug": "tempest",
- "category": "Restaurants & cafes",
- "published": true,
- "title": "TEMPEST",
- "kind": "Storm restaurant & bar concept",
- "tagline": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.",
- "description": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.\n\nThe concept studies how nature can act as the primary element of a fully enclosed interior. The storm is not a decorative feature but the organizing principle of the space: all zones are arranged around it, and the culinary experience - the presentation of dishes and the rhythm of service - is developed as its complement, extending the dramaturgy of the storm rather than competing with it.",
- "meta_description": "A fine-dining restaurant and bar concept built around a floor-to-ceiling glass cylinder holding a living storm of cloud and lightning, with all zones arranged around it.",
- "cover": "tempest-01-entrance-display.webp",
- "cover_alt": "TEMPEST - Storm restaurant & bar concept",
- "card_kind": "Storm restaurant & bar concept",
- "card_note": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.",
- "lead": {
-  "full": "assets/tempest-01-entrance.png",
-  "src": "assets/tempest-01-entrance-display.webp",
-  "alt": "TEMPEST, entrance",
-  "caption": "Entrance. First glimpse of the storm; lightning reflects in the marble floor."
- },
- "images": [
-  {
-   "full": "assets/tempest-02-corridor.png",
-   "src": "assets/tempest-02-corridor-display.webp",
-   "alt": "TEMPEST, corridor",
-   "caption": "Corridor. Rain runs across the glass ceiling; miniature storms glow inside brass lanterns."
+  "slug": "tempest",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "TEMPEST",
+  "kind": "Storm restaurant & bar concept",
+  "tagline": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.",
+  "description": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.\n\nThe concept studies how nature can act as the primary element of a fully enclosed interior. The storm is not a decorative feature but the organizing principle of the space: all zones are arranged around it, and the culinary experience - the presentation of dishes and the rhythm of service - is developed as its complement, extending the dramaturgy of the storm rather than competing with it.",
+  "meta_description": "A fine-dining restaurant and bar concept built around a floor-to-ceiling glass cylinder holding a living storm of cloud and lightning, with all zones arranged around it.",
+  "cover": "tempest-01-entrance-display.webp",
+  "cover_alt": "TEMPEST - Storm restaurant & bar concept",
+  "card_kind": "Storm restaurant & bar concept",
+  "card_note": "A fine-dining concept organized around a single spatial gesture: a floor-to-ceiling glass cylinder containing a living storm of cloud and lightning at the center of the room.",
+  "lead": {
+    "full": "assets/tempest-01-entrance.png",
+    "src": "assets/tempest-01-entrance-display.webp",
+    "alt": "TEMPEST, entrance",
+    "caption": "Entrance. First glimpse of the storm; lightning reflects in the marble floor."
   },
-  {
-   "full": "assets/tempest-03-bar.png",
-   "src": "assets/tempest-03-bar-display.webp",
-   "alt": "TEMPEST, central bar",
-   "caption": "Central bar. A round bar with a light wood front wraps the base of the glass cylinder."
-  },
-  {
-   "full": "assets/tempest-04-mezzanine.png",
-   "src": "assets/tempest-04-mezzanine-display.webp",
-   "alt": "TEMPEST, mezzanine",
-   "caption": "Mezzanine. Dining at cloud level, almost inside the storm."
-  },
-  {
-   "full": "assets/tempest-05-booth.png",
-   "src": "assets/tempest-05-booth-display.webp",
-   "alt": "TEMPEST, glass-side booth",
-   "caption": "Glass-side booth. A candle, a glass of wine, and a full storm an arm's length away."
-  },
-  {
-   "full": "assets/tempest-06-kitchen.png",
-   "src": "assets/tempest-06-kitchen-display.webp",
-   "alt": "TEMPEST, open kitchen",
-   "caption": "Open kitchen. Chefs at work behind a light wood counter, the storm beyond the glass."
-  }
- ],
- "credit": "Visualizations developed with AI as a design assistant and Photoshop."
+  "images": [
+    {
+      "full": "assets/tempest-02-corridor.png",
+      "src": "assets/tempest-02-corridor-display.webp",
+      "alt": "TEMPEST, corridor",
+      "caption": "Corridor. Rain runs across the glass ceiling; miniature storms glow inside brass lanterns."
+    },
+    {
+      "full": "assets/tempest-03-bar.png",
+      "src": "assets/tempest-03-bar-display.webp",
+      "alt": "TEMPEST, central bar",
+      "caption": "Central bar. A round bar with a light wood front wraps the base of the glass cylinder."
+    },
+    {
+      "full": "assets/tempest-04-mezzanine.png",
+      "src": "assets/tempest-04-mezzanine-display.webp",
+      "alt": "TEMPEST, mezzanine",
+      "caption": "Mezzanine. Dining at cloud level, almost inside the storm."
+    },
+    {
+      "full": "assets/tempest-05-booth.png",
+      "src": "assets/tempest-05-booth-display.webp",
+      "alt": "TEMPEST, glass-side booth",
+      "caption": "Glass-side booth. A candle, a glass of wine, and a full storm an arm's length away."
+    },
+    {
+      "full": "assets/tempest-06-kitchen.png",
+      "src": "assets/tempest-06-kitchen-display.webp",
+      "alt": "TEMPEST, open kitchen",
+      "caption": "Open kitchen. Chefs at work behind a light wood counter, the storm beyond the glass."
+    }
+  ],
+  "credit": "Concept and creative direction by Mariia Andriiuk. Images created with AI tools and Photoshop."
 }

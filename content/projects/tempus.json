@@ -1,0 +1,48 @@
+{
+  "slug": "tempus",
+  "category": "Restaurants & cafes",
+  "published": true,
+  "title": "TEMPUS",
+  "kind": "Hourglass Restaurant Concept",
+  "tagline": "Time continues, whatever happens around the table.",
+  "description": "A restaurant pavilion in a desert landscape, arranged around one monumental hourglass. Behind the transparent enclosure, falling sand gives visible form to something usually unnoticed: time continues while guests talk, eat, pause and watch.\n\nThe central hourglass is conceived as a shared presence rather than a timer for individual tables. It does not direct the pace of the meal. The sound concept adds a faint rustle of sand, noticed most clearly in the pauses between conversations.\n\nThe visual direction combines curved glass, bronze-toned structural ribs, a dark reflective floor, soft taupe seating and pale table linen. Amber light connects the sand, the bar and the desert sunset, while low table lighting keeps the scale intimate beneath the large enclosure.",
+  "meta_description": "A restaurant pavilion in a desert landscape, arranged around one monumental hourglass. Behind the transparent enclosure, falling sand gives visible form to something usually unnoticed: time continues while guests talk, eat, pause and watch.",
+  "cover": "1-tempus-01-wide.webp",
+  "cover_alt": "TEMPUS - Hourglass Restaurant Concept",
+  "card_kind": "Hourglass Restaurant Concept",
+  "card_note": "Time continues, whatever happens around the table.",
+  "lead": {
+    "full": "assets/1-tempus-01-wide.webp",
+    "src": "assets/1-tempus-01-wide.webp",
+    "alt": "TEMPUS, wide",
+    "caption": "Main dining room. One monumental hourglass forms the centre of the glass pavilion."
+  },
+  "images": [
+    {
+      "full": "assets/2-tempus-02-bar.webp",
+      "src": "assets/2-tempus-02-bar.webp",
+      "alt": "TEMPUS, bar",
+      "caption": "Bar view. Amber light connects the curved counter with the sand beyond."
+    },
+    {
+      "full": "assets/3-tempus-03-side.webp",
+      "src": "assets/3-tempus-03-side.webp",
+      "alt": "TEMPUS, side",
+      "caption": "Dining beside the hourglass. Low table lighting frames the view towards the desert."
+    },
+    {
+      "full": "assets/4-tempus-04-detail.webp",
+      "src": "assets/4-tempus-04-detail.webp",
+      "alt": "TEMPUS, detail",
+      "caption": "Sand detail. Falling grains become the focus of a quiet moment at the table."
+    }
+  ],
+  "role": "concept development, spatial narrative, guest experience concept, colour and material direction, lighting and sound concept, and creative direction of the image series.",
+  "sections": [
+    {
+      "heading": "Project status",
+      "body": "Independent concept. Unbuilt."
+    }
+  ],
+  "credit": "Concept and creative direction by Mariia Andriiuk. Images created with AI tools."
+}
