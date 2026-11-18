@@ -19,7 +19,7 @@ function imgAnchor(img, title, n, eager) {
 function renderProject(d) {
   const ogBase = (d.lead && d.lead.src) || (d.cover ? 'assets/' + d.cover : null);
   const ogDerived = ogBase ? 'assets/og/' + path.basename(ogBase).replace(/\.[^.]+$/, '') + '.jpg' : null;
-  const ogImg = (ogDerived && fs.existsSync(path.join(ROOT, ogDerived))) ? ogDerived : DEFAULT_OG_IMAGE;
+  const ogImg = (ogDerived && fs.existsSync(path.join(ROOT, ogDerived))) ? ogDerived : (d.slug === 'tempus' ? ogBase : DEFAULT_OG_IMAGE);
   const sections = (d.sections||[]).map(s => `<section><h2>${esc(s.heading)}</h2><p class="section-prose">${esc(s.body)}</p></section>`).join('');
   const materials = d.materials ? `<p class="materials"><strong>${esc(d.materials.heading)}</strong><br/>${esc(d.materials.body)}</p>` : '';
   const role = d.role ? `<p class="project-narrative"><strong>My role</strong><br/>${esc(d.role)}</p>` : '';
