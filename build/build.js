@@ -41,7 +41,7 @@ for (const f of fs.readdirSync(path.join(ROOT, 'content/projects'))) {
   fs.writeFileSync(path.join(OUT, 'projects', d.slug + '.html'), renderProject(d));
 }
 // copy static dirs/files
-for (const item of ['assets', '_next', 'index.html', 'about.html', 'privacy.html', 'work-together.html', 'admin', 'robots.txt']) {
+for (const item of ['assets', '_next', 'index.html', 'about.html', 'privacy.html', 'work-together.html', 'services.html', 'admin', 'robots.txt']) {
   const src = path.join(ROOT, item);
   if (!fs.existsSync(src)) continue;
   fs.cpSync(src, path.join(OUT, item), {recursive: true});
@@ -56,6 +56,7 @@ const CATS = [
   ['Wellness', 'collection-3', 'Wellness &amp; retreats'],
   ['Retail', 'collection-4', 'Retail &amp; showrooms'],
   ['Studios', 'collection-5', 'Photography studios'],
+  ['Events & installations', 'collection-6', 'Events &amp; installations'],
 ];
 const ORDER = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/card-order.json'), 'utf8'));
 const site = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/site.json'), 'utf8'));
@@ -92,7 +93,7 @@ fs.writeFileSync(path.join(OUT, 'about.html'), ab);
 console.log('rendered index + about from content');
 
 // ---- sitemap ----
-const smUrls = ['/', '/about', '/privacy', '/work-together', ...all.map(d => `/projects/${d.slug}.html`)];
+const smUrls = ['/', '/about', '/privacy', '/work-together', '/services', ...all.map(d => `/projects/${d.slug}.html`)];
 const sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
   + smUrls.map(u => `  <url><loc>${SITE}${u}</loc></url>`).join('\n')
   + '\n</urlset>\n';
@@ -119,7 +120,7 @@ for (const project of all) {
   includeArtwork('assets/' + project.cover, project.slug, 'br');
 }
 // Include only images already referenced by generated pages or the existing hero.
-for (const filename of ['index.html','work-together.html', ...all.map(d => 'projects/' + d.slug + '.html')]) {
+for (const filename of ['index.html','work-together.html','services.html', ...all.map(d => 'projects/' + d.slug + '.html')]) {
   if (/chilika/i.test(filename)) continue;
   const html = fs.readFileSync(path.join(OUT, filename), 'utf8');
   const refs = [...html.matchAll(/(?:src|href|content)="([^"]+\.(?:png|jpe?g|webp))"/gi)];
