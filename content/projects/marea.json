@@ -1,0 +1,71 @@
+{
+  "slug": "marea",
+  "category": "Events & installations",
+  "published": true,
+  "title": "MAREA",
+  "kind": "Immersive fragrance event concept",
+  "tagline": "An immersive fragrance event set inside a frozen wave. Guests cross a dark reef-rock threshold, walk on sand and crushed shell, and meet each fragrance in a sphere of water.",
+  "description": "Guests approach through a dark reef-rock threshold, step onto sand mixed with crushed shell and pass under a translucent wave that curls over the whole hall. The wave is the anchor of the space and the photo zone.\n\nThe product stays the focus: each fragrance sits in a sphere of rippling water above a pedestal of water-worn stone, held by corals.\n\nThe evening is a sequence of light. With each new fragrance the water changes colour, from turquoise to violet to warm amber.\n\nIndependent concept. Unbuilt.",
+  "meta_description": "MAREA is an immersive fragrance event concept: a translucent wave over the hall, fragrances in spheres of water on stone pedestals, and light that changes colour with each scent.",
+  "cover": "marea-01-hall-display.webp",
+  "cover_alt": "MAREA - Immersive fragrance event concept",
+  "card_kind": "Immersive fragrance event concept",
+  "card_note": "An immersive fragrance event set inside a frozen wave. Guests cross a dark reef-rock threshold, walk on sand and crushed shell, and meet each fragrance in a sphere of water.",
+  "lead": {
+    "full": "assets/marea-01-hall.png",
+    "src": "assets/marea-01-hall-display.webp",
+    "alt": "MAREA, hall",
+    "caption": "Hall. A translucent wave curls over the space; each fragrance stands in a sphere of water on a stone pedestal, with tall tubes of small fish at the edges."
+  },
+  "images": [
+    {
+      "full": "assets/marea-02-approach.png",
+      "src": "assets/marea-02-approach-display.webp",
+      "alt": "MAREA, approach",
+      "caption": "Approach. A dark reef-rock threshold with a lit arch ahead."
+    },
+    {
+      "full": "assets/marea-03-entrance.png",
+      "src": "assets/marea-03-entrance-display.webp",
+      "alt": "MAREA, entrance",
+      "caption": "Entrance. The arch opens onto sand and crushed shell, with the wave glowing beyond."
+    },
+    {
+      "full": "assets/marea-04-fragrance.png",
+      "src": "assets/marea-04-fragrance-display.webp",
+      "alt": "MAREA, fragrance",
+      "caption": "Fragrance. A sphere of rippling water above a pedestal of water-worn stone, held by corals."
+    },
+    {
+      "full": "assets/marea-05-photozone.png",
+      "src": "assets/marea-05-photozone-display.webp",
+      "alt": "MAREA, photo zone",
+      "caption": "Photo zone. The wave overhead becomes the backdrop for guests."
+    },
+    {
+      "full": "assets/marea-06-view.png",
+      "src": "assets/marea-06-view-display.webp",
+      "alt": "MAREA, view to the entrance",
+      "caption": "View to the entrance. Pedestals line the way back to the arch."
+    },
+    {
+      "full": "assets/marea-07-turquoise.png",
+      "src": "assets/marea-07-turquoise-display.webp",
+      "alt": "MAREA, turquoise light",
+      "caption": "Turquoise. The first colour of the evening."
+    },
+    {
+      "full": "assets/marea-08-violet.png",
+      "src": "assets/marea-08-violet-display.webp",
+      "alt": "MAREA, violet light",
+      "caption": "Violet. The water changes colour as the next fragrance arrives."
+    },
+    {
+      "full": "assets/marea-09-amber.png",
+      "src": "assets/marea-09-amber-display.webp",
+      "alt": "MAREA, amber light",
+      "caption": "Amber. The last colour in the sequence, warm light across the sand."
+    }
+  ],
+  "credit": "Concept and creative direction by Mariia Andriiuk. Images created with AI tools."
+}
